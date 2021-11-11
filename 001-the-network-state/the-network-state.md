@@ -15,19 +15,28 @@ in the physical world. Crucially, that land is not necessarily
 
 ## An Archipelago of Digitally-Linked Enclaves
 
+![Map of Southeast Asia](img/map-of-southeast-asia.jpeg "Map of Southeast Asia")
+
 To visualize what this looks like, look at [Southeast
 Asia](https://twitter.com/balajis/status/1430043293518221312) on a
 map. Several of these countries are clusters of islands separated by
-the ocean. These aren't [convex
+the ocean. 
+
+![convex-set.png](img/convex-set.png "convex-set.png")
+![non-convex-set.png](img/non-convex-set.png "non-convex-set.png")
+
+These aren't [convex
 sets](https://en.wikipedia.org/wiki/Convex_set); for example, there
 are pieces of Indonesia that are closer to Malaysia than to other
 pieces of Indonesia. Still, on top of these geographical facts we
-superimpose the abstraction of a nation state. Two people within the
-geographic boundaries of a state delimited on a map are citizens of
-the same country, subject to the same law, with logins on the same
-government services - even if one of these people may be [physically
+superimpose the abstraction of a nation state. Two people within the geographic boundaries of a state delimited on a
+map are citizens of the same country, subject to the same law, with
+logins on the same government services - even if one of these people
+may be [physically
 closer](https://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations/)
 to a citizen of another country than to their co-national.
+
+![singpass.png](img/singpass.png "singpass.png")
 
 What if we extend this concept? What if those islands were separated
 not by the ocean, but by the internet — and scattered all around the
@@ -37,6 +46,8 @@ Google](https://about.google/locations/?region=europe&office=london-6ps):
 globally distributed, networked real estate gated by the [common
 login](https://venturebeat.com/2020/04/20/google-rolls-out-beyondcorp-for-secure-remote-network-access-without-a-vpn/)
 of a corporate account.
+
+![google-offices.png](img/google-offices.png "google-offices.png")
 
 A network state is thus an archipelago of digitally-linked enclaves.
 It's also a country you can start from your computer, a territory one
@@ -59,6 +70,8 @@ on the [immense](https://a16z.com/2011/10/08/nobody-cares/)
 risk of trying to build something from scratch. Or they can choose to
 remain a "citizen" and be gainfully employed by a founder, or by a
 vehicle that a founder once [set up](/founding-vs-inheriting).
+
+![founding-vs-inheriting.png](img/founding-vs-inheriting.png "founding-vs-inheriting.png")
 
 What if we could generalize that beyond companies and communities?
 
@@ -94,6 +107,8 @@ are possible:
     down, ideally with some notice such that your citizens/users have
     time to find a new network state they can gain citizenship in.		
 
+![passport-power.png](img/passport-power.png "passport-power.png")
+
  2. _Citizen to Citizen_. You join a network state, and remain a
 	citizen. Or you acquire dual citizenship, or N-th citizenship, in
 	another network state - usually by buying and holding a sufficient
@@ -105,6 +120,8 @@ are possible:
 	passport allows you to enter some countries, but not others. And
 	Quora allows you to login with Facebook or Google, but not vice
 	versa.
+	
+	![american-communes.png](img/american-communes.png "american-communes.png")
 	
  4. _Founder to Founder_. You continue running the network state you
 	founded, or you sell it or shut it down and start a new
@@ -119,6 +136,8 @@ are possible:
 	communes](https://rowman.com/ISBN/9780739105207/All-Things-New-American-Communes-and-Utopian-Movements-1860-1914)
 	is highly relevant.
 
+
+
 The idea that anyone can become a founder of a network state is a
 vision of global equality of opportunity. It is the modern version of
 Jefferson's natural aristocracy. And it's an improvement over the
@@ -126,15 +145,21 @@ legitimating myth that "anyone can become president of the United
 States", which isn't really true, as only ~4% of the world is American
 and only a subset of those people satisfy the age, birth, and
 residency [requirements](https://www.usa.gov/presidents) to become
-president. So long as the US still [rules the
+president. 
+
+![us-rules-world.png](img/us-rules-world.png "us-rules-world.png")
+
+So long as the US still [rules the
 world](https://www.politico.com/magazine/story/2015/06/us-military-bases-around-the-world-119321/),
 this means that most of the people the US rules cannot themselves rise
 to rule the US. In fact, once we realize that there have been only 46
 US presidents (all of whom are American), but that there are thousands
 of billionaires (most of whom are now [not
 American](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_billionaires)),
-we realize that it is much more realistic to become a tech billionare than to
-become president. 
+we realize that it is much more realistic to become a tech billionare
+than to become president.
+
+![global-billionaire-list.png](img/global-billionaire-list.png "global-billionaire-list.png")
 
 Similarly, now that Satoshi made it possible to start a new digital
 currency, it is much easier to found a new cryptocurrency than to
@@ -149,6 +174,10 @@ available only to 40-something people in history, or the even more
 difficult path of becoming Fed Chair, an opportunity for only 16
 appointees, one can much more realistically found a billion dollar
 company or coin from one's computer.
+
+![start-community.png](img/start-community.png "start-community.png")
+![start-company.png](img/start-company.png "start-company.png")
+![start-currency.png](img/start-currency.png "start-currency.png")
 
 By extending this concept, we allow anyone in the world with an
 internet connection (which will soon be everyone) to become not just a
@@ -180,6 +209,8 @@ similar to Singapore becoming independent from Malaysia. Finally, it
 is also feasible to spin-off a subnetwork into its own network, like
 the UK exiting from the EU.
 
+![lousiana-purchase.jpeg](img/lousiana-purchase.jpeg "lousiana-purchase.jpeg")
+
 If we visualize the physical portion of a network state as like a
 network of Google offices, or a string of restaurant chains, or the
 real estate footprint of a REIT, we see how we can handle the physical
@@ -193,6 +224,8 @@ when it acquires a small one. Various kinds of reciprocity
 relationships with other network states may need to be renegotiated,
 just like many corporate deals have change-of-control provisions, but
 this too is straightforward so long as it is anticipated.
+
+![restaurant-chains-map.jpeg](img/restaurant-chains-map.jpeg "restaurant-chains-map.jpeg")
 
 In theory, all of this can be done with current legal
 infrastructure. It's just like one multinational acquiring the
@@ -220,6 +253,8 @@ The network state reduces violence on another dimension: thanks to their
 geographical decentralization and physical invisiblity, network
 states are hard to conquer. 
 
+![global-france-map.png](img/global-france-map.png "global-france-map.png")
+
 First, geographical decentralization. If you look at a map of France
 that includes its [islands in the South
 Pacific](https://en.wikipedia.org/wiki/Overseas_France), you realize
@@ -233,6 +268,8 @@ you can see the physical border zone between France & Germany on a
 map. But you can't visualize the border zone between Twitter &
 Facebook. That is, which people are on the "border" of Twitter and
 Facebook, in the sense that they have accounts on both sites?
+
+![facebook-map.jpeg](img/facebook-map.jpeg "facebook-map.jpeg")
 
 This might seem like a trivial concept, but isn't. The Twitter and
 Facebook networks are each bigger than France or Germany -
@@ -271,6 +308,10 @@ them. Instead, what we find is that people share values with people
 who are close to them in their social network...not in their physical
 space.
 
+![great-circle-distance.png](img/great-circle-distance.png "great-circle-distance.png")
+![geodesic-distance.jpg](img/geodesic-distance.jpg "geodesic-distance.jpg")
+
+
 We can quantify this with a little math. First, take a look at the
 definitions for the [great circle
 distance](https://en.wikipedia.org/wiki/Great-circle_distance) and the
@@ -285,6 +326,8 @@ physical world. The geodesic distance, by contrast, is a completely
 different metric. It's the number of degrees of separation between two
 nodes in a social network along the shortest path.
 
+![distance-metric.png](img/distance-metric.png "distance-metric.png")
+
 Importantly, the geodesic distance is just as valid a [mathematical
 metric](https://en.wikipedia.org/wiki/Metric_(mathematics)#Definition)
 as the great-circle distance. That means one can generate [distance
@@ -298,6 +341,8 @@ devoted to cloud cartography, in which
 [groups](https://www.cmu.edu/joss/content/articles/volume1/Freeman.html)
 present maps of online social networks - mapping not nation states but
 states of mind.
+
+![social-network-map.png](img/social-network-map.png "social-network-map.png")
 
 Why is the geodesic distance important? Because the network state is
 enabled in nontrivial part by the fact that we are transitioning from
@@ -315,6 +360,8 @@ existence is in a network. The Ethereum community holds meetups in
 places like Cancun or Shenzhen, but the physical materialization is
 evanescent while the digital community is persistent.
 
+![russia-vs-ethereum.png](img/russia-vs-ethereum.png "russia-vs-ethereum.png")
+
 Or think about the fact that Russia's borders are (mostly) fixed,
 while Ethereum's borders are highly fluid. It's true that Russia's
 borders have changed since 1991; its predecessor state, the USSR,
@@ -324,11 +371,18 @@ Europeans, and so on for quite a long time. Geopolitics doesn't vary
 that much; Russia's "competitors" for citizens have mostly stayed the
 same.
 
+![ethereum-vs-btc.png](img/ethereum-vs-btc.png "ethereum-vs-btc.png")
+
 By contrast, the Ethereum-to-XYZ exchange rate _does_ vary quite a
 bit, for different values of XYZ. Solana is a new digital currency
 that has popped up on Ethereum's boundary and taken a good chunk of
 "citizens" from it, just as Ethereum itself rose in BTC terms since
-its inception. This is similar to how early Facebook arose out of
+its inception. 
+
+![google-facebook-reciprocity-1.png](img/google-facebook-reciprocity-1.png "google-facebook-reciprocity-1.png")
+![google-facebook-reciprocity-2.png](img/google-facebook-reciprocity-2.png "google-facebook-reciprocity-2.png")
+
+This is similar to how early Facebook arose out of
 nowhere and took many citizens from Gmail, before Google "closed the
 borders". Of course, unlike territorial disputes, these games are not
 strictly zero-sum, as the space of cryptocurrency and internet users
@@ -342,6 +396,8 @@ networks, nation states cannot do this. They cannot just move around
 the map at will. The Russian state is mostly stuck with its neighbors
 in a way that individual Russians, or the Telegram and Ethereum
 networks (both founded by people of Russian descent), are not.
+
+![dynamic-geography.png](img/dynamic-geography.png "dynamic-geography.png")
 
 We can term this concept _dynamic digital geography_, after a term
 Patri Friedman
