@@ -1,0 +1,12 @@
+# Emacs
+*#
+*~
+*.#*
+*.elc
+
+# Scrap
+# scrap.md
+# scrap/*
+
+# Mac
+.DS_Store
