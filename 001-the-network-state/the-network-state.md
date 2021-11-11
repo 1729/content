@@ -62,6 +62,7 @@ Each of these implicit definitions illuminates a different aspect of
 the network state. Let's go through each of them in turn.
 
 ## A Country You Can Start From Your Computer
+
 An important feature of the modern era is that you can boot up a
 billion dollar company from a laptop, or a million person online
 community. Anyone can choose to become a founder at any time, and take
@@ -190,12 +191,14 @@ just doesn't desire it at this point in time, to simply remain a
 citizen and pick from the available nation and network state jurisdictions.
 
 ## A Territory One Can Acquire but Not Conquer
+
 Once we visualize a network state as a combination of (a) a digital
 social network with an integrated cryptocurrency and (b) a physical
 network of distributed enclaves, we realize that it is much easier to
 acquire than to conquer.
 
 ### Easy to Acquire
+
 First, why is it easy to acquire? For the digital portion of a network
 state, when the founder sells it to an acquirer, it's like selling
 Instagram to Facebook. The digital logins of the two services are
@@ -249,6 +252,7 @@ competition between countries, where peace treaties between would-be
 rebels and current incumbents are signed via M&A.
 
 ### Hard to Conquer
+
 The network state reduces violence on another dimension: thanks to their
 geographical decentralization and physical invisiblity, network
 states are hard to conquer. 
@@ -411,4 +415,7 @@ quickly.
 
 
 ## Next Steps
-To be continued! See [github.com/1729/content/issues](https://github.com/1729/content/issues) for how you can help.
+
+To be continued! See
+[github.com/1729/content/issues](https://github.com/1729/content/issues)
+for how you can help.
