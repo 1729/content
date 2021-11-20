@@ -325,7 +325,7 @@ distance](https://faculty.ucr.edu/~hanneman/nettext/C7_Connection.html#geodesic)
 The geographic distance is the the distance between two points on the
 surface of the earth. It's the distance as the crow flies. You can do
 a modified version of this based on practical travel constraints, but
-to a first approximation this fis how far apart people are in the
+to a first approximation this is how far apart people are in the
 physical world. The geodesic distance, by contrast, is a completely
 different metric. It's the number of degrees of separation between two
 nodes in a social network along the shortest path.
