@@ -64,7 +64,7 @@ many societal goods you can't easily buy — like a walk down the street
 in a high-trust community — and Mad Max isn't a desirable long-term
 outcome for anyone, even Bitcoin Maximalists.
 
-Neither should our future be control by a still-intact Chinese
+Neither should our future be controlled by a still-intact Chinese
 superstate. Nature abhors a vacuum, and a durably stateless West would
 eventually prove a playground for foreign powers, who understand that
 the non-aggression principle has always been trumped by the aggression
