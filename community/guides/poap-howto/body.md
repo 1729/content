@@ -82,6 +82,8 @@ Once your wallet is connected, you'll be able to see any POAPs issued to that ad
 
 ![POAP mobile collection](images/poap-mobile-2.jpeg)
 
+For more advanced users, [this tutorial](https://www.publish0x.com/long-horizon/how-to-add-your-poaps-to-metamask-xyyyqrn) will show you how to connect Metamask to xDai and view your POAPs in Metamask.
+
 ## Using an ENS domain instead of a Metamask address
 
 If you look at the [event page for Beta Lecture 3](https://poap.gallery/event/15646), you can that the list of wallets that minted POAPs for it are a mix of Ethereum addresses and .eth domain names:
