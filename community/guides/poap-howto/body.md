@@ -1,5 +1,4 @@
 # How To Claim And View Your 1729 POAPs
-
 When you attend a 1729 event in VR, we'll issue you a special NFT as proof of your attendance. This limited-run NFT credential is called a POAP (Proof Of Attendance Protocol), and it connects you with the other 1729 members who attended the event.
 
 Using the unique URL we'll send you after you've filled out the event feedback form, you can mint this POAP to an Ethereum address of your choosing.
