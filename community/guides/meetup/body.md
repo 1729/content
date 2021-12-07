@@ -57,7 +57,7 @@ A meetup host is responsible for the following:
 1. Make sure the venue is safe and accessible, and suitable for the kind of meetup you're hosting. I.e., if the meetup is a group jog, there should a safe path marked out beforehand; if it's a hackathon, you'll need power outlets. Ensuring that the venue is ready is on the host.
 2. Set and announce a photos policy well in advance. The default for 1729 events is no photos at the event, and it's assumed unless a "photos allowed" policy is announced at the time the event is first announced.
 3. See that pseudonyms are respected and that all policies governing the meeting are enforced.
-4. Take attendance at the event so the guests can get their POAPs.
+4. Take attendance at the event.
 5. Following the event, submit a form listing all the attendees so that everyone can get their POAP.
 
 A meetup guest has the following responsibilities:
