@@ -89,4 +89,4 @@ geographic distance, a polity that prizes exit above voice, a state
 that recruits like a startup, a territory one can acquire but not
 conquer, a nation built from the internet rather than disrupted by it.
 
-And that is the subject of [this book](/the-network-state).
+And that is the subject of [this book](/001-the-network-state/the-network-state.md).
