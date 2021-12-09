@@ -62,7 +62,7 @@ A meetup host is responsible for the following:
 
 A meetup guest has the following responsibilities:
 
-1. RSVP to the event in a timely matter, so the host can plan accordingly.
+1. RSVP to the event in a timely manner, so the host can plan accordingly.
 2. Come fully equipped and prepared to learn, earn, or burn.
 3. Make sure your pseudonym is known and/or knowable. 
 4. Confirm that your attendance is recorded by the host.
