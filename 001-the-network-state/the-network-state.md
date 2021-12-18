@@ -132,7 +132,7 @@ are possible:
 	informed by the previous one - it may be possible for a suitably
 	talented administrator to do the Plymouth Colony, then
 	Massachusetts, then the US all within one lifetime. The v1, v2,
-	and v3 of countries rather than companies. The history 
+	and v3 of countries rather than companies. The history of 
 	[mid-1800s American
 	communes](https://rowman.com/ISBN/9780739105207/All-Things-New-American-Communes-and-Utopian-Movements-1860-1914)
 	is highly relevant.
