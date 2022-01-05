@@ -14,7 +14,7 @@ Fill out the CC licensing form on the pattern of the image below, using the foll
 
 - *Your name*: There isn't really a pseudonymous option, so you'll need to enter your real name here. DM us if this is a problem.
 
-- *Your URL*: Enter the Github URL we sent you, which has copies of your entries along with some information.
+- *Your URL*: Go too the [main manifest page](entries.md) in this repo and find the link to your entry, and submit that in this box. (E.g., for Fabian Uribe, the entry is `https://github.com/1729/content/blob/master/tasks/poap-nft-contest/entries/fabianuribe.md`.)
 
 - *Title of work*: 1729 POAP NFT Art Contest Entry
 
