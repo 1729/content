@@ -24,13 +24,13 @@ Finally, check the waiver box, review all the terms and be sure you fully unders
 
 You'll then be asked to confirm the waiver, and once you do you'll be taken to a screen where you can enter your email:
 
-![Enter your email](images/send-email.jpg)
+<kbd>![Enter your email](images/send-email.jpg)</kbd>
 
 Enter your own email, preferably the one you used when applying to the 1729.com beta program, and click "Send".
 
 You'll then get an email like the following, which you'll forward to `jon@1729.com`.
 
-![Enter your email](images/cc-email.jpg)
+<kbd>![Enter your email](images/cc-email.jpg)</kbd>
 
 ## 2. Receive your prize
 
