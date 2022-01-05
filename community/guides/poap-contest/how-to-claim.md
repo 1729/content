@@ -8,7 +8,7 @@ The sections below outline the steps will allow you to publish your work as CC a
 
 Go to [this link](https://creativecommons.org/choose/zero/) on the Creative Commons website and click "begin >>" after having read and understood the whole page.
 
-![The CC license form](/images/cc-form.jpg)
+![The CC license form](images/cc-form.jpg)
 
 Fill out the CC licensing form on the pattern of the image below, using the following as a guide:
 
@@ -24,13 +24,13 @@ Finally, check the waiver box, review all the terms and be sure you fully unders
 
 You'll then be asked to confirm the waiver, and once you do you'll be taken to a screen where you can enter your email:
 
-![Enter your email](/images/send-email.jpg)
+![Enter your email](images/send-email.jpg)
 
 Enter your own email, preferably the one you used when applying to the 1729.com beta program, and click "Send".
 
 You'll then get an email like the following, which you'll forward to `jon@1729.com`.
 
-![Enter your email](/images/cc-email.jpg)
+![Enter your email](images/cc-email.jpg)
 
 ## 2. Receive your prize
 
