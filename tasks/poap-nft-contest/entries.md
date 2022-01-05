@@ -1,6 +1,6 @@
 # 1729 POAP NFT Art Contest Entries
 
-- [Fabian](entries/fabianurbie.md)
+- [Fabian](entries/fabianuribe.md)
 - [kehaar](entries/kehaar.md)
 - [Gary Sheng](entries/garysheng.md)
 - [Jake Jingleheimer](entries/jakejingleheimer.md)
