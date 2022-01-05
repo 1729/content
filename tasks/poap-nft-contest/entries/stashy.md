@@ -2,6 +2,6 @@
 
 *Submitter*: Stashy
 
-![Entry](stashy-1.png)
+![Entry](stashy-1.PNG)
 
-![Entry](stashy-2.png)
+![Entry](stashy-2.PNG)

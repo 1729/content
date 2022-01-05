@@ -2,10 +2,10 @@
 
 *Submitter*: little.prince
 
-![Entry](littleprince-host.png)
+![Entry](littleprince-host.jpeg)
 
-![Entry](littleprince-lecture.png)
+![Entry](littleprince-lecture.jpeg)
 
-![Entry](littleprince-pow.png)
+![Entry](littleprince-pow.jpeg)
 
-![Entry](littleprince-social.png)
+![Entry](littleprince-social.jpeg)
