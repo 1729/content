@@ -8,7 +8,7 @@ The sections below outline the steps will allow you to publish your work as CC a
 
 Go to [this link](https://creativecommons.org/choose/zero/) on the Creative Commons website and click "begin >>" after having read and understood the whole page.
 
-![The CC license form](images/cc-form.jpg)
+<kbd>![The CC license form](images/cc-form.jpg)</kbd>
 
 Fill out the CC licensing form on the pattern of the image below, using the following as a guide:
 
