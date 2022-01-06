@@ -7,3 +7,4 @@
 - [Little.Prince](entries/littleprince.md)
 - [Logic_Chimp](entries/logic_chimp.md)
 - [Stashy](entries/stashy.md)
+- [firecat](entries/firecat.md)
