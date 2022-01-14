@@ -377,7 +377,7 @@ crypto-anarchy.
    entrepreneurs are being crushed in the name of making China great
    on the international stage.
 
-3. /Crypto-Civilization, not Crypto-Anarchy./ Third, when we we
+3. /Crypto-Civilization, not Crypto-Anarchy./ Third, when we
    actively seek founders, rather than reject them on principle,
    that's not an argument against decentralization, it's an argument
    for crypto-civilization over crypto-anarchy. It's a recognition
@@ -1546,5 +1546,5 @@ outside it. Still, this is a good example of an artificial national boundary.
 
 [fn:10] See the Sovereign Individual, David Sacks' tweet, and Lakoff's
 concept of subscription fees as the price one pays for being a
-citizen - though the latter may balk at taking the concept seriously
+citizen - though the latter may balk at taking the concept seriously 
 rather than merely rhetorically!
