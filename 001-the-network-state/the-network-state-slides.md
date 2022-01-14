@@ -6,7 +6,7 @@ size: 16:9
 
 ![h:150](assets/1729-slide-logo.png)
 
-# Lecture 1: The Network State 
+# Lecture 1: The Network State
 A country you can start from your computer.
 1729.com/the-network-state
 
@@ -59,22 +59,22 @@ towns into a **single network**.
 
 ---
 # A Community Aligned Around Cryptographic Consensus
-**51% democracy** < ~100% democracy. 
+**51% democracy** < ~100% democracy.
 
 At-will citizenship plus founder-run jurisdictions solves for
-consensus and competition, competence and legitimacy. 
+consensus and competition, competence and legitimacy.
 
-Sign social smart contract before entering, and re-up periodically.  
+Sign social smart contract before entering, and re-up periodically.
 ![bg right fit](assets/pew-polarization.png)
 
 ---
 # A Community Aligned Around Cryptographic Consensus
-51% democracy < **~100% democracy**. 
+51% democracy < **~100% democracy**.
 
 At-will citizenship plus founder-run jurisdictions solves for
-consensus and competition, competence and legitimacy. 
+consensus and competition, competence and legitimacy.
 
-Sign social smart contract before entering, and re-up periodically.  
+Sign social smart contract before entering, and re-up periodically.
 ![bg right fit](assets/glassdoor-ceo-approval.png)
 
 ---
@@ -160,16 +160,16 @@ France is a somewhat distributed country.
 
 ---
 # A Territory One Can Acquire, But Not Conquer
-France is a somewhat distributed country. 
+France is a somewhat distributed country.
 
 **A restaurant chain is a distributed company.**
 
-What if we generalized the latter beyond commercial real estate? Easy to do M&A, hard to invade.  
+What if we generalized the latter beyond commercial real estate? Easy to do M&A, hard to invade.
 ![bg right fit](assets/restaurant-chains-map.jpeg)
 
 ---
 # Go Vertical By Going Horizontal
-**Cloud formations** have been growing in scale and duration since 2013. 
+**Cloud formations** have been growing in scale and duration since 2013.
 ![bg right:70% fit](assets/cloud-formations.png)
 
 ---

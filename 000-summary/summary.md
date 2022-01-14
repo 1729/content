@@ -4,8 +4,7 @@ Writing a book is a commitment for reader and writer alike. So in the
 event you're deciding whether to make that commitment, here's a
 [minimum description
 length](https://mitpress.mit.edu/books/minimum-description-length-principle)-motivated
-summary of the key concepts behind the Network State. We'll do the one
-sentence, one paragraph, and one page versions. For the ten page
+summary of the key concepts behind the Network State. We'll do the one-sentence, one-paragraph, and one-page versions. For the ten-page
 version, read [chapter one](/the-network-state). And for the one
 hundred-plus-page version, read [the whole thing](/).
 
@@ -18,17 +17,17 @@ and a plan to crowdfund territory.
 ## One paragraph
 
 Technology has allowed us to start new companies, new communities, and
-new currencies. But can we use it to create new cities, or even new
+new currencies. But can we use it to create new cities or even new
 countries? The key concept is to go cloud first, land last — but not
-land never. 
+land never.
 
   1. First, form a social network around a clear leader, a proven centralized mechanism for dispute resolution in a decentralized world. Since anyone can found a network state, just like anyone can found a tech company or cryptocurrency, the legitimacy of this leader comes from whether people have opted in to follow them.
 
-  2. Next, start doing meetups in the physical world, of increasing scale and duration, while simultaneously building an internal economy using cryptocurrency. 
+  2. Next, start doing meetups in the physical world, of increasing scale and duration, while simultaneously building an internal economy using cryptocurrency.
 
-  3. Eventually, begin crowdfunding apartments, houses, and even towns to bring digital citizens into the physical world within real co-living communities. 
+  3. Eventually, begin crowdfunding apartments, houses, and even towns to bring digital citizens into the physical world within real co-living communities.
 
-  4. Finally, network these pieces together into a new kind of state: a *network state*, a digital archipelago with parts of territory distributed around the world. 
+  4. Finally, network these pieces together into a new kind of state: a *network state*, a digital archipelago with parts of territory distributed around the world.
 
 As the population and economy of a network state grow comparable to
 that of a legacy state, it will gradually be able to attain diplomatic
@@ -71,9 +70,9 @@ the non-aggression principle has always been trumped by the aggression
 principle.
 
 So if neither anarcho-tyranny, nor crypto-anarchy, nor Chinese
-control...then what? Instead we should start building towards
+control...then what? Instead, we should start building towards
 _crypto-civilization_. A new world where anyone can be either country
-founder or crypto-citizen, and can switch between these paths at any
+founder or crypto-citizen and can switch between these paths at any
 time — much as you might choose to found a company or join one as an
 employee. Where it is possible to peacefully start new countries, to
 join them, to form alliances between them, to switch allegiances
