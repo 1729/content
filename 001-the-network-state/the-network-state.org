@@ -377,7 +377,7 @@ crypto-anarchy.
    entrepreneurs are being crushed in the name of making China great
    on the international stage.
 
-3. /Crypto-Civilization, not Crypto-Anarchy./ Third, when we we
+3. /Crypto-Civilization, not Crypto-Anarchy./ Third, when we
    actively seek founders, rather than reject them on principle,
    that's not an argument against decentralization, it's an argument
    for crypto-civilization over crypto-anarchy. It's a recognition
@@ -560,7 +560,7 @@ competitor's digital citizens.
 It is the geodesic distance that enables fluid switching between
 network states[fn:6]. The great-circle-distance-driven physical world
 requires individuals to actually move around the map to enter a new
-territory, while the geodesic-distance-griven digital world just
+territory, while the geodesic-distance-driven digital world just
 requires a user to hit a new key. This becomes more obvious when you
 have a VR headset on; hit a button and you are transported between
 worlds. Another button, another world.
@@ -1124,7 +1124,7 @@ services of a legacy nation state.
    stakes form of friending or following.
 
  - /Corporate Law/: Most corporate law can go on-chain. See this post
-   mirrortables for details: balajis.com/mirrortables.
+   on mirrortables for details: balajis.com/mirrortables.
 
  - /Dispute Resolution/: Smart contracts give more predictable dispute
    resolution.
@@ -1495,7 +1495,7 @@ wouldn't have a single employer like Google. There would be as many
 different sources of income as there were network state citizens.
 
 [fn:2] Think of interoperability between network state citizenship
-status as being a complex, fruitful ground for innovation -f much like
+status as being a complex, fruitful ground for innovation much like
 interoperability between blockchains, and based on many of the same
 concepts given that citizenship is partially predicated on coin
 possession.
