@@ -20,7 +20,7 @@ in the physical world. Crucially, that land is not necessarily
 To visualize what this looks like, look at [Southeast
 Asia](https://twitter.com/balajis/status/1430043293518221312) on a
 map. Several of these countries are clusters of islands separated by
-the ocean. 
+the ocean.
 
 ![convex-set.png](img/convex-set.png "convex-set.png")
 ![non-convex-set.png](img/non-convex-set.png "non-convex-set.png")
@@ -54,7 +54,7 @@ It's also a country you can start from your computer, a territory one
 can acquire but not conquer, a community aligned around cryptographic
 consensus, a DAO that materializes in patches of earth, a city-state
 in the cloud, a body based on math rather than science, a group
-organized by geodesic over geographic distance, a polity that prizes
+organized by graph distance over geographic distance, a polity that prizes
 exit above voice, a state that recruits like a startup, and a nation
 built from the internet rather than disrupted by it.
 
@@ -106,7 +106,7 @@ are possible:
     a network state to another network state, which transitions the
     logins of all your citizens to a new system. Or you can shut it
     down, ideally with some notice such that your citizens/users have
-    time to find a new network state they can gain citizenship in.		
+    time to find a new network state they can gain citizenship in.
 
 ![passport-power.png](img/passport-power.png "passport-power.png")
 
@@ -121,9 +121,9 @@ are possible:
 	passport allows you to enter some countries, but not others. And
 	Quora allows you to login with Facebook or Google, but not vice
 	versa.
-	
+
 	![american-communes.png](img/american-communes.png "american-communes.png")
-	
+
  4. _Founder to Founder_. You continue running the network state you
 	founded, or you sell it or shut it down and start a new
 	one. Perhaps the first such state is focused on veganism, while
@@ -132,7 +132,7 @@ are possible:
 	informed by the previous one - it may be possible for a suitably
 	talented administrator to do the Plymouth Colony, then
 	Massachusetts, then the US all within one lifetime. The v1, v2,
-	and v3 of countries rather than companies. The history 
+	and v3 of countries rather than companies. The history
 	[mid-1800s American
 	communes](https://rowman.com/ISBN/9780739105207/All-Things-New-American-Communes-and-Utopian-Movements-1860-1914)
 	is highly relevant.
@@ -146,7 +146,7 @@ legitimating myth that "anyone can become president of the United
 States", which isn't really true, as only ~4% of the world is American
 and only a subset of those people satisfy the age, birth, and
 residency [requirements](https://www.usa.gov/presidents) to become
-president. 
+president.
 
 ![us-rules-world.png](img/us-rules-world.png "us-rules-world.png")
 
@@ -255,7 +255,7 @@ rebels and current incumbents are signed via M&A.
 
 The network state reduces violence on another dimension: thanks to their
 geographical decentralization and physical invisiblity, network
-states are hard to conquer. 
+states are hard to conquer.
 
 ![global-france-map.png](img/global-france-map.png "global-france-map.png")
 
@@ -298,13 +298,12 @@ the return of secret societies, at scale, as _secret
 states_. Network states thus have the option of reducing violence by
 encrypting the map itself; you can't hit what you can't see.
 
-## A Group Organized By Geodesic Rather than Geographic Distance
+## A Group Organized By Geodesics in a Network, not Geodesics on a Sphere
 
 Snapchat lies on a straight line with the dissolution of the nation
 state. Why? Because people are sharing intimate moments with others
-3000 miles away, while they often don't know the names of the next
-door neighbors in their anonymous apartment complex. This undermines
-the underlying assumption of the Westphalian nation state: namely,
+3000 miles away, while they often don't know the names of the next-door neighbors in their anonymous apartment complex. This undermines
+the underlying assumption of the [Westphalian nation state](https://en.wikipedia.org/wiki/Westphalian_sovereignty): namely,
 that people who live near each other will share the same values and
 therefore agree upon laws, such that the geographically-premised
 mechanism of the nation state is the right entity to govern
@@ -317,22 +316,15 @@ space.
 
 
 We can quantify this with a little math. First, take a look at the
-definitions for the [great circle
-distance](https://en.wikipedia.org/wiki/Great-circle_distance) and the
-[geodesic
-distance](https://faculty.ucr.edu/~hanneman/nettext/C7_Connection.html#geodesic).
+definitions for the [great-circle distance](https://en.wikipedia.org/wiki/Great-circle_distance) and the
+[graph-geodesic distance](https://en.wikipedia.org/wiki/Distance_(graph_theory)).
 
-The geographic distance is the the distance between two points on the
-surface of the earth. It's the distance as the crow flies. You can do
-a modified version of this based on practical travel constraints, but
-to a first approximation this is how far apart people are in the
-physical world. The geodesic distance, by contrast, is a completely
-different metric. It's the number of degrees of separation between two
-nodes in a social network along the shortest path.
+The great-circle distance is the geodesic distance between two points on the surface of the earth. It's the distance as the crow flies. You can do a modified version of this based on practical travel constraints, but to a first approximation this is how far apart people are in the physical world. The graph-geodesic distance, by contrast, is a completely different metric. It's the number of degrees of separation between two nodes in a social network along the shortest path.
+
 
 ![distance-metric.png](img/distance-metric.png "distance-metric.png")
 
-Importantly, the geodesic distance is just as valid a [mathematical
+Importantly, the graph-geodesic distance is just as valid a [mathematical
 metric](https://en.wikipedia.org/wiki/Metric_(mathematics)#Definition)
 as the great-circle distance. That means one can generate [distance
 matrices](https://en.wikipedia.org/wiki/Distance_matrix), and hence
@@ -348,11 +340,11 @@ states of mind.
 
 ![social-network-map.png](img/social-network-map.png "social-network-map.png")
 
-Why is the geodesic distance important? Because the network state is
+Why is the graph-geodesic distance important? Because the network state is
 enabled in nontrivial part by the fact that we are transitioning from
-a primarily great-circle-driven world to a geodesic-driven world. And
+a primarily great-circle-driven world to a graph-geodesic-driven world. And
 that means the fundamental division is less the visible geographic
-borders of the nation state, than the invisible geodesic borders of
+borders of the nation state, than the invisible graph-geodesic borders of
 the social network. This in turn means that we need to reconceptualize
 the state as a primarily digital entity, a _network state_.
 
@@ -381,7 +373,7 @@ By contrast, the Ethereum-to-XYZ exchange rate _does_ vary quite a
 bit, for different values of XYZ. Solana is a new digital currency
 that has popped up on Ethereum's boundary and taken a good chunk of
 "citizens" from it, just as Ethereum itself rose in BTC terms since
-its inception. 
+its inception.
 
 ![google-facebook-reciprocity-1.png](img/google-facebook-reciprocity-1.png "google-facebook-reciprocity-1.png")
 ![google-facebook-reciprocity-2.png](img/google-facebook-reciprocity-2.png "google-facebook-reciprocity-2.png")
@@ -392,7 +384,7 @@ borders". Of course, unlike territorial disputes, these games are not
 strictly zero-sum, as the space of cryptocurrency and internet users
 keeps expanding, as does the wealth to invest in different services.
 
-It is the geodesic distance that enables this fluidity. Individuals
+It is the graph-geodesic distance that enables this fluidity. Individuals
 and entire networks can instantly become adjacent to anyone else in a
 social network. Individuals can also move around the map to become
 adjacent to others in the physical world. But unlike individuals or
