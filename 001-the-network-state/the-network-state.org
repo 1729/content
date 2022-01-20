@@ -87,7 +87,8 @@ consensus, a state that recruits like a startup, a body based on math
 above science, a list of citizen journalists, a culture of crypto
 creators, a civilization that values digital civility, an organization
 of optimalists, an asymptotically automated administration, a
-ROC-based realtime regulator, a citizenry centered on single sign-on,
+ROC-based realtime regulator (ROC curves define performance of 
+classification models), a citizenry centered on single sign-on,
 a polity that prizes choice alongside voice, a 100% democracy instead
 of a mere 51% democracy, a society funded by subscription and
 seignorage, and a nation built from the internet rather than disrupted
@@ -468,7 +469,7 @@ state: namely, that people who live near each other will share the
 same values and therefore agree upon laws, such that the
 geographically-premised mechanism of the nation state is the right
 entity to govern them. Instead, what we find is that people share
-values with people who are close to them in their social network...not
+values with people who are close to them in their social network and not
 in their physical vicinity. We cannot be a good neighbor if we do not
 even know the neighbors.
 
@@ -1473,9 +1474,9 @@ you discuss the concept of starting a new country.
       based on math even more than "science". This ledger of record
       turns every information source into an oracle or an
       advocate. The former is a dispassionate stream of data, the
-      latter is interpretation on top of it.  Just as every citizen
+      latter is an interpretation on top of it.  Just as every citizen
       posts on social media today, every citizen will be considered a
-      citizen journalist tomorrow.  Some will raw report information
+      citizen journalist tomorrow.  Some will report raw information
       via oracles that gets recorded in that network state's ledger of
       record, while most others will provide commentary. Everything
       will be signed with their digital signature, and there will be a
