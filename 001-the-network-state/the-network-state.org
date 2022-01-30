@@ -1,0 +1,1550 @@
+#+SETUPFILE: "../common/book-meta.org"
+
+#+BEGIN_EXPORT latex
+\csheader
+#+END_EXPORT
+
+* The Network State
+:PROPERTIES:
+:UNNUMBERED: t
+:END:  
+  
+A proposition is not a nation, though it can become one. Here we
+describe a peaceful, reproducible process for turning an online
+community premised on a proposition into a physical state with a
+virtual capital: a /network state/, the sequel to the nation state.
+
+A network state is a social network with a recognized founder, an
+integrated cryptocurrency, a definite purpose, a sense of national
+consciousness, and a plan to crowdfund territory. The state formation
+process begins with a /founding influencer/, who organizes the online
+community that eventually buys land in the physical world. Crucially,
+that land is not necessarily [[https://1729.com/how-to-start-a-new-country][contiguous]]. In fact, by default, it's
+distributed all over the world.
+
+To understand what a network state looks like, and how it differs from
+a traditional nation state, take a look at Figure
+\ref{fig:the-network-state-dashboard}. As this dashboard shows, a
+network state is composed of /network nodes/, each of which represents
+a group of digital netizens who have chosen to live together in the
+physical world.
+
+#+CAPTION: The Network State, visualized as a dashboard. Each dot represents a network node.
+#+NAME: fig:the-network-state-dashboard
+#+ATTR_LATEX: :width 15cm
+[[./assets/network-state-dashboard-1729.png]]
+
+The dashboard also demonstrates a key property of the network state:
+quantified growth. The series of snapshots in Figures
+\ref{fig:ns1}-\ref{fig:ns1m} shows how the network state formation
+process can begin with a single founding influencer and scale to a
+million person physical community. The Network State founder's task is
+as simple (and as difficult) as recruiting a community online that is
+capable of crowdfunding and coliving in land around the world.
+
+#+CAPTION: The Network State at its founding, with 1 person.
+#+NAME: fig:ns1
+[[./assets/network-state-dashboard-size01.png]]
+
+#+CAPTION: The Network State at ~10 people.
+#+NAME: fig:ns10
+[[./assets/network-state-dashboard-size02.png]]
+
+#+CAPTION: The Network State at ~100 people.
+#+NAME: fig:ns100
+[[./assets/network-state-dashboard-size03.png]]
+
+#+CAPTION: The Network State at ~1,000 people.
+#+NAME: fig:ns1k
+[[./assets/network-state-dashboard-size04.png]]
+
+#+CAPTION: The Network State at ~10,000 people.
+#+NAME: fig:ns10k
+[[./assets/network-state-dashboard-size05.png]]
+
+#+CAPTION: The Network State at ~100,000 people.
+#+NAME: fig:ns100k
+[[./assets/network-state-dashboard-size06.png]]
+
+#+CAPTION: The Network State at ~1,000,000 people.
+#+NAME: fig:ns1m
+[[./assets/network-state-dashboard-size07.png]]
+
+Essentially, just like a tech company or a social network, the network
+state provides a smooth path from a single person with a computer and
+no other resources to a million person global network. The difference
+is that a network state is more ambitious. It's meant to start on the
+internet and become a peer to sovereign countries, just like Bitcoin
+started on the internet and became a peer to sovereign currencies.
+
+Something of that scale has many facets. We can variously think of the
+network state as an archipelago of interconnected enclaves, a country
+you can start from your computer, a group defined by geodesic over
+geographic distance, a city-state in the cloud, a territory one can
+acquire but not conquer, a union of sovereign collectives, a band that
+defends cloud before land, a community aligned around cryptographic
+consensus, a state that recruits like a startup, a body based on math
+above science, a list of citizen journalists, a culture of crypto
+creators, a civilization that values digital civility, an organization
+of optimalists, an asymptotically automated administration, a
+ROC-based realtime regulator, a citizenry centered on single sign-on,
+a polity that prizes choice alongside voice, a 100% democracy instead
+of a mere 51% democracy, a society funded by subscription and
+seignorage, and a nation built from the internet rather than disrupted
+by it.
+
+Whew! That's quite a list. Each of these brief definitions illuminates
+a different aspect of the network state. Let's go through each of them
+in turn.
+** An Archipelago of Interconnected Enclaves   
+# TODO: Add the 1,2,3,4,5 path
+# |---+-----------+---------------------------+--------------|
+# | 1 | Japan     | island                    | nation state |
+# | 2 | Indonesia | network of islands        | nation state |
+# | 3 | France    | global network of islands | nation state |
+# | 4 | Lesotho   | enclave                   | nation state |
+# | 5 | TBD       | network of enclaves       | TBD          |
+# |---+-----------+---------------------------+--------------|
+Why might the distributed, discontiguous state shown in Figure
+\ref{fig:the-network-state-dashboard} even be workable? As motivation,
+start by looking at the nation states of [[https://twitter.com/balajis/status/1430043293518221312][Southeast Asia]] on a map
+(Figure \ref{fig:southeast-asia}).
+
+#+CAPTION: The country of Indonesia is a set of islands separated by the ocean. What if we had a country of islands separated by the internet?
+#+NAME: fig:southeast-asia
+[[./assets/map-of-southeast-asia.jpeg]]
+
+Several of these countries are clusters of islands separated by
+ocean. The obvious mapping of one island per entity doesn't apply. The
+boundaries aren't even close to clean [[https://en.wikipedia.org/wiki/Convex_set][convex sets]]. And there are many
+pieces of Indonesia that are closer to, say, Malaysia than to other
+pieces of Indonesia.
+
+Still, on top of this messy geography people have nevertheless
+superimposed the conceptual /abstraction/ of nation states. The people
+within the geographic boundaries of a nation state as delimited on a
+map are subject to the same laws. If they are citizens, they may have
+[[https://www.singpass.gov.sg/main][logins]] on the same government services. And for the purposes of
+forming contracts or adjudicating disputes, this jurisdictional
+proximity takes precedence over mere geographical proximity.
+
+That is, whether two people are citizens of the same /abstract/ nation
+state is often more material than whether two people are just
+/physically/ close to one another. A given Indonesian may be
+physically closer to a given Malaysian than to another Indonesian 100
+miles away, but the Indonesian state binds the two Indonesians
+together through a common set of laws, a common currency, a common
+school system, a common military, a common flag, and so on. The
+abstract - might we say the /virtual/? - dominates the concrete, the
+physical.
+
+What if we extended this concept? What if those islands were separated
+not by the ocean, but by the internet — and scattered all around the
+world? That's a glimpse of what a network state looks
+like. Contemporary precedents include coworking communities, crypto
+meetups, and the offices of large tech companies like [[https://about.google/locations/?region=europe&office=london-6ps][Google]]: globally
+distributed, networked real estate gated by the [[https://venturebeat.com/2020/04/20/google-rolls-out-beyondcorp-for-secure-remote-network-access-without-a-vpn/][common login]] of a
+corporate account.
+
+#+CAPTION: Google owns a network of commercial real estate worldwide. What if a community the size of Google owned residential real estate too?
+#+NAME: fig2
+[[./assets/google-offices.png]]
+
+One difference[fn:1] is that while Google's real estate is mainly
+restricted to office and datacenter space, a network state's footprint
+includes community-owned residential /and/ commercial real
+estate. Each piece around the world is connected to a community with
+its center on the internet, forming an archipelago of interconnected
+enclaves.
+
+# TODO: import past article
+# 1729.com/how-to-start-a-new-country
+# TODO: insert exact definition of enclave
+
+That word - /enclave/ - is worth underlining. An enclave is a state
+that is fully landlocked, surrounded by other states on all sides
+without access to the ocean. The key observation is that the
+/internet increases the value of networked enclaves/, of globally
+distributed pieces of territory that aren't physically contiguous.
+
+# TODO: add  references on rise of the nation state
+# Imagined communities
+# Invisible countries
+
+# TODO: give examples of cliffs of dover (england/france), and then others like france/germany or contentious ones
+#+CAPTION: Some national borders are more natural, in the sense that they track geographic or linguistic differences. Others are much more artificial, like the British lines dividing up Africa.
+#+NAME: fig:border-examples
+
+# TODO: show how social constructs can be psychological ones with the example of Yahoo search
+# basically, the map showing that the geocenters of search queries corresponded to borders
+
+Why? When you visualize a map of the nation states of the world, you
+realize that individual enclaves aren't very common anymore. That's
+because during the rise of the modern Westphalian nation state,
+enclaves became far less viable. Once cartography advanced to the
+point that maps were widely distributed and territory became legible,
+once it became technologically feasible to first define something as
+abstract[fn:9] as a national border and then to enforce it, the people
+within an enclave found themselves at a disadvantage. They needed to
+gain right of passage from the enclosing state to trade or travel to
+other locales. Over time, it became easier for enclaves to simply
+/merge/ with their enclosing state, rather than be cut off from the
+world.
+
+# TODO: give examples of enclaves being swallowed
+#+CAPTION: Map of Portugal, Brazil, Macau trade routes with Spanish enclosure
+#+NAME: fig:map-of-portugal-brazil-macu
+
+Note that an entity like Portugal with access to the ocean is not
+considered an enclave, even if it appears otherwise enclosed. Why?
+/Because the ocean was the first peer-to-peer network./ The modern
+nation state of Portugal can send ships to Portuguese-speaking regions
+like Brazil or Macau without going overland through the modern nation
+state of Spain. Spain cannot prevent Portugal from doing so as
+interdicting ocean travel is much harder than interdicting overland
+travel. So in a sense, Portugal was /networked/ to other territories
+by the ocean.
+
+What the internet does is put a port (in the digital sense) on every
+device, so it can connect to each other just as the ports (in the
+oceanic sense) of every maritime power connected its territories
+together. That port-to-port connection opens the door for the network
+state, increasing the value of an archipelago of interconnected
+enclaves.
+** A Country You Can Start From Your Computer
+# TODO: add graphic of a path for founders and a path for citizens   
+*** The Improbability of Starting a Currency
+In 2008, if you'd walked into the office of a conventional
+investor and said that you wanted to found a new currency from your
+computer, you'd have gotten stares and guffaws.
+
+#+BEGIN_QUOTE
+What are you going to do, petition the IMF? The World Bank? Oh, and
+your imaginary internet money is going to be decentralized, and
+deflationary, huh? You do know that Paul Krugman proved that deflation
+could never work, that it'd cause liquidity traps, and even if your
+crazy scheme did it'd be shut down by the government immediately. Take
+a look at an Econ 101 textbook, and get out of my office.
+#+END_QUOTE
+
+Of course, Satoshi Nakamoto managed to create Bitcoin without any
+investment at all[fn:8]. But this is roughly the reaction you'd get today if
+you expressed a serious interest in starting a new country. And in
+fairness, while of course new countries /have/ been started at various
+points in history, there have also been many half-baked [[https://1729.com/how-to-start-a-new-country][attempts]]. So
+rational skepticism is warranted.
+*** A Path for Founders, and a Path for Citizens
+With that in mind, let's suspend disbelief and start from first
+principles. An important feature of the modern era is that you can
+boot up a tech company, an online community, or even a cryptocurrency
+from a laptop.  Can we generalize this process of founding beyond
+companies, communities, and currencies to cities and even countries?
+
+A key concept is to start cloud first, land last - but not land
+never. That is, start by founding a /community/ online and then work
+on materializing it in the physical world by crowdfunding territory.
+
+Note that not /everyone/ need be a founder of a network state. If we
+think about the current world, anyone can choose to become a founder
+of a company, community, or currency at any time, thereby taking on
+the [[https://a16z.com/2011/10/08/nobody-cares/][immense]] [[https://future.a16z.com/the-entrepreneurial-struggle/][stress]] and risk of trying to build something from
+scratch. Alternatively, they can choose to remain a "citizen" and be
+gainfully employed by a founder — or by a vehicle that a founder once
+[[https://1729.com/founding-vs-inheriting][created]], whether that be a tech founder like Larry Page or a founding
+father like George Washington.
+
+The network state model is similar. There is a path for /founders/ of
+network states and a path for /citizens/. Anyone can switch between
+these paths at any time, just like you can (a) go from being a Google
+employee to taking on the insanity of founding a company, or (b)
+transition from founding a company to selling to Google, hanging up
+the cleats for a time, and enjoying the easy life as an employee.
+
+#+CAPTION: A path for founders, a path for citizens
+#+NAME: 
+
+In other words, between any two moments in time, all four of the
+following [[https://en.wikipedia.org/wiki/State-transition_table][transitions]] are possible:
+
+ 1. /Citizen to Founder/. You begin gathering an online community,
+    write up a founding document, create a cryptocurrency, and declare
+    your intent to found a network state. From today's perspective
+    this seems quixotic. But think again about Satoshi Nakamoto's plan
+    to start a new currency in 2009, and how utopian it seemed at the
+    time. If the process of instantiating the first network state
+    meets with success, if this zero-to-one attempt actually works, it
+    will eventually become a template: anyone can start a country from
+    their computer, beginning by building a following.
+
+ 2. /Founder to Citizen/. You may not want to remain a founder
+    forever. Heavy lies the crown! As we will see, unlike modern
+    nation states, but like [[https://foreignpolicy.com/2012/06/05/why-dont-countries-buy-territory-like-they-used-to/][historical ones]], network states are built
+    for full or partial M&A. So you can actually sell some or all of a
+    network state to another network state, much as a large REIT might
+    sell some of its properties to another REIT. A sale of this kind
+    would transitions the logins of all your citizens to a new
+    system. Or you can shut it down, ideally with some notice, such
+    that your citizens/users have time to switch citizenship over to
+    another network state.
+
+ 3. /Citizen to Citizen/. You join a network state, and remain a
+    citizen. Or you acquire dual citizenship, or N-th citizenship, in
+    another network state - usually by buying and holding a sufficient
+    amount of that network state's coin, as well as satisfying other
+    requirements like [[https://poap.xyz][participation]] and [[https://twitter.com/balajis/status/1451354756639723523][civility]]. Different network
+    states may have different reciprocity provisions, just like nation
+    states and social networks do[fn:2]. For example, a US passport
+    allows you to enter some countries, but not others. And Quora
+    allows you to login with Facebook or Google, but not vice versa.
+    Similarly, citizenship in one network state may give partial
+    access to another network state.
+	
+ 4. /Founder to Founder/. You continue running the network state you
+    founded, or you sell or shut it down and start a new one. Perhaps
+    the first such state is focused on quantified self, while the
+    second is on life extension. Just like Evan Williams created
+    Blogger, then Twitter, then Medium - all iterations on a theme,
+    each informed by the previous one - it may be possible for a
+    suitably talented administrator to do the Plymouth Colony, then
+    Boston, then Massachusetts all within one lifetime. It's analogous
+    to an ambitious politician starting as mayor of a city, then
+    governor of a state, and then becoming president of a country.
+    But think of this as the v1, v2, and v3 of communities rather than
+    companies. In this context, the history of mid-1800s American
+    [[https://rowman.com/ISBN/9780739105207/All-Things-New-American-Communes-and-Utopian-Movements-1860-1914][communes]] is highly relevant.
+
+#+CAPTION: The best passports are those which give maximum access to different countries.
+#+NAME: 
+[[./assets/passport-power.png]]
+
+#+CAPTION: Before the communism of the 1900s, many of the American communes of the 1800s were actually profitable and functional.
+#+NAME:
+[[./assets/american-communes.png]]
+
+This takes much of the strain off the question of "who will lead a
+network state"? It's like asking the question of who will be the CEO
+of a tech company. It could be you. You have the right to try taking
+on that immense responsibility if you want, when you want, should you
+want - or to politely demur, as is your wont.
+*** An Abundance of Leaders, Not an Absence Of Them 
+
+    
+The concept of empowering /anyone/ to transition back and forth
+from network state founder to citizen as they see fit might seem
+obvious, but it has a number of important implications.
+
+
+
+Among other things, it offers a pragmatic alternative to the three
+leading ideological positions of the day - Woke Capital (NYT),
+Communist Capital (CCP), and Crypto Capital (BTC) - as the network
+state is neither bureaucratic oligarchy nor communist autocracy nor
+crypto-anarchy.
+
+# TODO: make a figure showing 51% democracy vs dictatorship vs anarchy vs ~100% democracy
+#       and why the network state is better for founders /and/ citizens than those three alternatives
+#       all 2x2: legitimacy without competency - san francisco
+#                competency without legitimacy - ccp dictatorship
+#                neither legitimate nor competent - crypto anarchy
+#                legitimate and competent - network state founder
+
+1. /100% Democracy, not 51% Democracy./ First, when anyone can become
+   a network state founder or switch citizenships, that's not an
+   argument against democracy, it's an argument for /more/ of it. It's
+   about more individual input, more consensual government, and more
+   international inclusiveness. Put another way, it's a case for 100%
+   democracy, rather than a mere 51% democracy. Because in the 100%
+   democracy of a network state, all the citizens in a jurisdiction
+   have freely chosen the founder by signing a social smart contract
+   upon entry. By contrast, in the status quo of a 51% democracy we
+   see the barest possible level of democratic assent, and a
+   corresponding grudging reluctance by 49% to bend to coercion by the
+   other 51%. In this sense the network state is an alternative to the
+   bureaucratic oligarchy imposed by NYT in the name of democracy.
+
+2. /Legitimate Leadership, not Communist Dictatorship./ Second, when
+   anyone can become a network state founder, but must attract
+   citizens, that's not an argument against competent leadership. It's
+   an argument for /legitimate/ leadership, leadership that citizens
+   have freely chosen, much as they freely work for a CEO or vote for
+   a president. It's leadership without dictatorship: anyone can
+   declare themselves a leader of a network state, and see whether
+   they can build a following, just like they can declare themselves
+   founder of a tech company and see whether they can build a product
+   valuable enough to fund employees. The alternative is the
+   non-consensuality of imposed direction by communist dictatorship,
+   the CCP model, where China's international cities and greatest
+   entrepreneurs are being crushed in the name of making China great
+   on the international stage.
+
+3. /Crypto-Civilization, not Crypto-Anarchy./ Third, when we we
+   actively seek founders, rather than reject them on principle,
+   that's not an argument against decentralization, it's an argument
+   for crypto-civilization over crypto-anarchy. It's a recognition
+   that Satoshi was a leader, Washington was a leader, Gandhi was a
+   leader, Lee Kuan Yew was a leader, and Herzl was a leader. And that
+   a stably decentralized world requires an abundance of leaders, not
+   an absence of them, lest a [[https://www.youtube.com/watch?v=JOWRembdPS8][highly organized]] centralized empire
+   overwhelm a group of disorganized crypto-anarchists that reject the
+   very concept of leadership.
+
+Thus, at least conceptually, the network state embraces democracy,
+leadership, and decentralization while avoiding the failure modes of
+oligarchy, dictatorship, and anarchy. There are no royal titles
+either; there's no hereditary monarchy, no newspaper nepotists, PRC
+princelings, or corporate feudalists at the head of things. A leader
+earns their way to the top, generating enough value for their digital
+citizens - or seeing them leave for another network state given the
+ease of exit. And a key to it all is that fluidity of transition: a
+network state is a country you can start from your computer, so anyone
+can go from citizen to founder.
+*** 96% of the World Can't Become President, But 100% Can Found A Network State.
+The idea that anyone can become a founder of a network state is a
+vision of global equality of opportunity. It is the modern version of
+Jefferson's natural aristocracy. And it's an improvement over America's
+legitimating myth that "anyone can become president of the United
+States", which isn't really true, as only ~4% of the world is American
+and only a subset of those satisfy the age, birth, and residency
+[[https://www.usa.gov/presidents][requirements]] to become president.
+
+#+CAPTION: US rules the world
+#+NAME:
+
+So long as the US still [[https://www.politico.com/magazine/story/2015/06/us-military-bases-around-the-world-119321/][rules the world]], this means that most of the
+people the US rules cannot themselves rise to rule the US. In fact,
+once we realize that there have been only 46 US presidents (all of
+whom are American), but that there are thousands of billionaires (most
+of whom are now [[https://en.wikipedia.org/wiki/List_of_countries_by_number_of_billionaires][not American]], we realize that it is /much more
+realistic/[fn:5] to become a tech billionare than to become US
+president.
+
+#+CAPTION: 
+#+NAME:
+[[./assets/global-billionaire-list.png]]
+
+Similarly, now that Satoshi made it possible to start a new digital
+currency, it is much easier to found a new cryptocurrency than to
+become head of the Federal Reserve. The American establishment would
+never have picked Vitalik Buterin over Jerome Powell, but the young
+Canadian is on key dimensions a far more accomplished macroeconomist
+than the American sexagenarian. Buterin founded an economy, while
+Powell simply [[https://1729.com/founding-vs-inheriting][inherited one]].
+
+So, instead of the false hope of getting elected US president, a role
+available only to 46 people in history, or the even more difficult
+path of becoming Fed Chair, an opportunity for only 16 appointees, one
+can much more realistically found a billion dollar company or coin
+from one's computer.
+
+By extending this concept, we allow anyone in the world with an
+internet connection (which will soon be everyone) to become not just a
+tech founder, or a protocol founder, but a network state
+founder. Whether the next Washington is Brazilian, Indian, Nigerian,or
+Eastern European, this mechanism lets them rise to global
+leadership. It permits a positive-sum avenue for the politically
+ambitious. But, again, it also allows anyone who doesn't desire the
+stress of leadership, or just doesn't desire it at this point in time,
+to simply remain a citizen and pick from their available nation and
+network state jurisdictions.
+** A Group Defined By Geodesic Over Geographic Distance
+# TODO
+# - Where are you is a very modern question
+# - Do a concrete example with N people
+# - Geographical distance: start with Nx2 matrix of lat/lng, get distance matrix, show projection
+#   (can also compare the MDS outcome to the original lat/lng)
+# - Geodesic distance: start with NxN distance matrix, get MDS projection
+# - Example with 1860s US, fractal county map of D/R, and CJR 2017 post
+# - Bosnia: fractal map
+# - For the code, put in replit and use networkx for graph layout
+# - Block diagonal matrix: show that the two come up with different clusters
+   
+Snapchat lies on a straight line with the dissolution of the nation
+state. Why? Because people are sharing intimate moments with others
+3000 miles away, while they often don't know the names of the people next
+door in their anonymous urban apartment complex.
+
+This undermines the underlying assumption of the Westphalian nation
+state: namely, that people who live near each other will share the
+same values and therefore agree upon laws, such that the
+geographically-premised mechanism of the nation state is the right
+entity to govern them. Instead, what we find is that people share
+values with people who are close to them in their social network...not
+in their physical vicinity. We cannot be a good neighbor if we do not
+even know the neighbors.
+
+# TODO: do an example with great circle distance and geodesic distance
+#       for a group of (say) 5 people. Show that the clusters are different.
+#       Eg: there's a CA cluster and India cluster in the physical world,
+#       but there are different clusters in social network space.
+#
+#       v1: geographical proximity, v2: network proximity, v3:
+#       migration to people of like mind
+
+We can quantify this with a little math. First, take a look at the
+definitions for the [[https://en.wikipedia.org/wiki/Great-circle_distance][great circle distance]] and the [[https://faculty.ucr.edu/~hanneman/nettext/C7_Connection.html#geodesic][geodesic distance]].
+
+#+CAPTION: The great circle distance is the number of kilometers apart on a globe, as the crow flies.
+#+NAME:
+[[./assets/great-circle-distance.png]]
+
+# TODO: ramachandran 2005 paper with overland travel times for better distance metric
+
+The great circle distance is the the distance between two points on the
+surface of the earth. It's the distance as the crow flies. You can do
+a modified version of this based on practical travel constraints, but
+to a first approximation this is how far apart people are in the
+physical world.
+
+#+CAPTION: The geodesic distance is the number of degrees of separation in a social network.
+#+NAME:
+[[./assets/geodesic-distance.jpg]]
+
+The geodesic distance, by contrast, is a completely different
+metric. It's the number of degrees of separation between two nodes in
+a social network along the shortest path.
+
+Importantly, the geodesic distance is just as valid a [[https://en.wikipedia.org/wiki/Metric_(mathematics)#Definition][mathematical
+metric]] as the great-circle distance. That means one can generate
+[[https://en.wikipedia.org/wiki/Distance_matrix][distance matrices]], and hence maps, via techniques like
+[[https://en.wikipedia.org/wiki/Multidimensional_scaling#Classical_multidimensional_scaling][multidimensional scaling]]. In fact, there are entire [[http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=21262&copyownerid=34837][conferences]]
+devoted to cloud cartography, in which [[http://vis.stanford.edu/jheer/projects/vizster/][research]] [[https://www.cmu.edu/joss/content/articles/volume1/Freeman.html][groups]] present maps of
+online social networks - mapping not nation states but states of mind.
+
+#+CAPTION: A map of a social network based on the geodesic distance.
+#+NAME:
+[[./assets/social-network-map.png]]
+
+Why is the geodesic distance important? Because the network state is
+enabled in nontrivial part by the fact that we are transitioning from
+a primarily great-circle-driven world to a graph-geodesic-driven world. And
+that means the fundamental division is less the visible geographic
+borders of the nation state, than the invisible geodesic borders of
+the social network. This in turn means that we need to reconceptualize
+the state as a primarily digital entity, a /network state/.
+
+#+CAPTION: With Russia, the land is fixed and the ideology is variable. With Ethereum it's the reverse.
+#+NAME:
+[[./assets/russia-vs-ethereum.png]]
+
+Think about the difference between Russia vs Ethereum. Russia was a
+geographical entity that switched its ideology in 1991, from communism
+to nationalism. The geography was primary, the ideology was
+secondary. Conversely, Ethereum is an ideological entity whose primary
+existence is in a network. The Ethereum community holds meetups in
+places like Cancun or Shenzhen, but the physical materialization is
+evanescent while the digital community is persistent.
+
+Or think about the fact that Russia's borders are (mostly) fixed,
+while Ethereum's borders are highly fluid. It's true that Russia's
+borders have changed since 1991; its predecessor state, the USSR,
+extended farther out into Eastern Europe and Central Asia. But the
+Russian people have been near the Baltics, the Turks, the Eastern
+Europeans, and so on for quite a long time. Geopolitics doesn't vary
+that much; Russia's "competitors" for citizens have mostly stayed the
+same.
+
+By contrast, the Ethereum-to-XYZ exchange rate /does/ vary quite a
+bit, for different values of XYZ. Solana is a new digital currency
+that has popped up on Ethereum's boundary and taken a good chunk of
+"citizens" from it, just as Ethereum itself rose in BTC terms since
+its inception.
+
+This is similar to how early Facebook arose out of nowhere and took
+many "citizens" from Gmail, before Google "closed the borders". Of
+course, unlike territorial disputes, competitions over digital
+citizens are not strictly zero-sum. For at least a while, the space of
+cryptocurrency and internet users will keep expanding; even after that
+point, a rival still needs to build better services to attract a
+competitor's digital citizens.
+
+It is the geodesic distance that enables fluid switching between
+network states[fn:6]. The great-circle-distance-driven physical world
+requires individuals to actually move around the map to enter a new
+territory, while the geodesic-distance-griven digital world just
+requires a user to hit a new key. This becomes more obvious when you
+have a VR headset on; hit a button and you are transported between
+worlds. Another button, another world.
+
+And this applies not just to individuals, but to whole groups, to
+entire networks, which are expensive to move in the physical world but
+much easier to relocate near another network in digital space. Just do
+an Oauth-style integration and voila, your citizens can cross the
+border into another network state.
+
+Legacy nation states cannot do this. They cannot just move around the
+map at will. As we noted, the Russian state is mostly stuck with its
+neighbors like Japan and Turkey in a way that individual Russians, or
+the Telegram and Ethereum networks (both founded by people of Russian
+descent), are not.
+
+We can term this concept /digital dynamic geography/, after a term
+Patri Friedman [[https://patrifriedman.com/old_writing/dynamic_geography.html][introduced]]. He used it in the context of seasteading,
+to argue for homes like cruise ships that could dock and undock in
+congenial states at will, but it's arguably easier to accomplish first
+in the digital world. For a group organized by geodesic distance,
+collective digital exit is as easy as pressing a key.
+
+# And
+# the popularization of the metaverse makes this more than a metaphor;
+# the digital territory a network inhabits can instantly be picked up
+# and made adjacent to any other with the press of a key, just like
+# moving a cruise ship around the world, but even more cheaply and
+# quickly.
+** COMMENT A City-State In The Cloud
+- capital is in the cloud
+- but it materializes on the earth  
+- photos of cities in the cloud
+- vr city tweet
+- Architect buildings in VR, estimate prices, then crowdfund it in the
+  physical world.
+
+#+CAPTION: 
+#+NAME:
+[[./assets/autodesk-revit.jpg]]
+
+#+CAPTION: 
+#+NAME:
+[[./assets/autodesk-revit-2.jpeg]]
+
+#+CAPTION: 
+#+NAME:
+[[./assets/fight-club-ikea-2.png]]
+
+#+CAPTION: 
+#+NAME:
+[[./assets/how-to-start-a-new-city.png]]
+
+- a dao that materializes in patches of earth
+- dao vs daoism
+- cloud first, land last, but not land never
+- neither nimby nor yimby but himby
+- go vertical by going horizontal
+
+Cloud formations have been growing in scale and duration since 2013.
+
+Just to visualize this from another direction, imagine standing on the
+roof of a skyscraper in New York City, looking down on this [[https://www.wallpaperup.com/uploads/wallpapers/2012/12/20/25965/cf13776f1a796e90e26a6a0a00f3897c.jpg][panorama]],
+and asking yourself how many of those windows had a Facebook
+user[fn:4] behind them. To first order, the right answer would be "all
+of them". But had a Facebook flag gone up in each window as Facebook
+grew, people would have perceived it differently. It'd be more
+tangible; the scale of Facebook would have been obvious earlier
+on, and the backlash would have been stronger. There's something about
+peripheral vision that activates the human sense of scale in a way
+mere numbers on screen doesn't. Seeing the number "100,000" is very
+different from seeing a stadium of 100,000 people.
+
+#+CAPTION: 
+#+NAME:
+[[./assets/michigan-stadium-100000.jpeg]]
+** A Territory One Can Acquire but Not Conquer
+Once we visualize a network state as a combination of (a) a digital
+social network with an integrated cryptocurrency and (b) a physical
+network of distributed enclaves, we realize that it is much easier to
+acquire than to conquer.
+
+# TODO: visual of M&A of a network state
+#       might want to start with a sequence of visuals
+#       showing setup, expansion, digital and physical footprints
+
+*** Easy to Acquire
+First, why is it easy to acquire? For the digital portion of a network
+state, when the founder sells it to an acquirer, it's like selling
+Instagram to Facebook. The digital logins of the two services are
+integrated and citizens in each network state now have access to the
+other's apps and physical territory. This is a modern analog to the
+Louisiana Purchase or the purchase of Alaska. It's also feasible to
+sell not the entire network, but simply a subnetwork - perhaps all
+those in a defined geographical location,or all those who have
+expressed a collective interest in changing citizenship. This is
+similar to Singapore becoming independent from Malaysia. Finally, it
+is also feasible to spin off a subnetwork into its own network, like
+the UK exiting from the EU.
+
+#+CAPTION: 
+#+NAME:
+[[./assets/lousiana-purchase.jpeg]]
+
+If we visualize the physical portion of a network state as like a
+network of Google offices, or a string of restaurant chains, or the
+real estate footprint of a REIT, we see how we can handle the physical
+component of network state M&A as well. In the simplest version, after
+one network state consummates the acquisition of the other, all
+citizens from one network state can enter the territory of the
+other. The smart locks just get a software update and now open all the
+doors and gates. The branding changes too, to be consistent with the
+new unified entity, much like a large hotel chain putting up new signage
+when it acquires a small one. Various kinds of reciprocity
+relationships with other network states and third parties may need to
+be renegotiated, just like many corporate contracts have change-of-control
+provisions, but this is straightforward so long as it is anticipated.
+
+#+CAPTION: 
+#+NAME:
+[[./assets/restaurant-chains-map.jpeg]]
+
+In theory, all of this can be done with current technical and legal
+infrastructure. It's just like one multinational acquiring the
+digital, physical, and human resources of another, except it extends
+to people's residences rather than simply their offices, and except
+that the acquired people become not just remote employees of the
+combined entity but digital citizens - though they can always leave
+for any new network state that admits them.
+
+Over time, however, the technolegal infrastructure for each network
+state should live on a blockchain rather than a melange of paper
+contracts and cloud services. The reason is that a blockchain gives
+citizen accounts and balances, allows the recording of all real estate
+transactions, the maintenance of all citizen records, and the
+management of private keys in a globally consistent way across legacy
+nation state jurisdictions. The problem of post-acquisition
+integration then reduces to porting over the records from one chain to
+another.
+
+In summary, this is a way to extend the corporate concept of
+change-of-control to polities. It's a recipe for nonviolent
+competition between countries, where peace treaties between would-be
+rebels and current incumbents are turned into M&A deals.
+
+*** Hard to Conquer
+The network state reduces violence on another dimension: thanks to
+their geographical decentralization and physical invisiblity, network
+states are hard to conquer.
+**** Network States are Geographically Decentralized
+First, geographical decentralization. If you look at a map of
+France that includes its [[https://en.wikipedia.org/wiki/Overseas_France][islands]] in the South Pacific, you realize
+that it's difficult to nuke or attack the whole thing at once. It's
+too globally distributed. So the geographical distribution of the
+network state itself is a deterrent to physical force. Just like
+cryptocurrency, the decentralization deters violence.
+
+#+CAPTION: France is concentrated in Western Europe. But it has about a million citizens around the globe.
+#+NAME:
+[[./assets/global-france-map.png]]
+
+Put another way, invading a network state is like invading every
+Bitcoin mine or Ethereum node in the world at once. Are you really
+going to be able to get right-of-way for your troops from every
+surrounding territory?  Won't the collateral damage piss off the
+neighbors? And how will you even locate all the nodes in the first
+place? Because the list isn't public.
+**** Network States are Physically Invisible
+This brings us to the second way that network states deter
+violence: physical invisibility. It's a bit more subtle. Right now, you
+can see the physical border between France & Germany on a map. But you
+can't visualize the border between Twitter & Facebook. That is, which
+people are on the "border" of Twitter and Facebook, in the sense that
+they have accounts on both sites?
+
+This might seem like a trivial concept, but isn't. The Twitter and
+Facebook networks are each bigger than France or Germany -
+combined. However, social network membership is invisible to all but
+the network operators. There's no public list of all Facebook and
+Twitter members. Only Facebook can generate a [[https://i.stack.imgur.com/6dXmx.jpg][map like this]].
+
+#+CAPTION: A map of Facebook's 'citizens' from the early 2010s.
+#+NAME:
+[[./assets/facebook-map.jpeg]]
+
+The invisibility of network membership has immense implications. You
+couldn't have nationalism itself without maps of physical space. For
+example, think about 54° 40' or Fight, which made literal reference to
+latitude. You couldn't have that kind of border dispute without being
+able to visualize a border. People had to see the map to be able to
+fight over it.
+
+So, because citizenship in a network state is invisible to a
+satellite, at least without the consent of the network state operator,
+these [[https://en.wikipedia.org/wiki/Imagined_community][imagined communities]] are [[https://yalebooks.yale.edu/book/9780300221626/invisible-countries][invisible countries]]. It's the return of
+secret societies, at scale, as /secret states/. Network states thus
+reduce violence by encrypting the map itself; you can't hit what you
+can't see.
+
+This is particularly interesting when it comes to the threat of
+invasions, and the use of nuclear weapons. If a network state of ten
+million people was spread around the globe, with a partially private
+user list (like Twitter and Facebook) and a physically decentralized
+footprint (like Bitcoin miners and Google offices), it'd be difficult
+to nuke it, or invade it, even if you could find it. You'd impose a
+lot of collateral damage on the people nearby in unaffiliated network
+states, you'd spend a lot of money, and the remaining 90-95% of
+citizens of the network state would likely seek some form of
+retaliation.
+
+That's not to say that network states are invulnerable. The types of
+attacks that could hit the entirety of a rival network state would be
+a cyberattack of some kind on their blockchain backbone, or perhaps a
+drone swarm (or perhaps SEAL team) that could be coordinated around
+the world given the GPS coordinates of every citizen.
+
+But that's a different battlefield than the one today's militaries are
+prepared for. Special forces and cyber notwithstanding, they are still
+for the most part organized around tanks, planes, and aircraft
+carriers. But if the map goes dark, the network state itself becomes
+invisible, the nuclear weapons and invasions of the 20th century are
+less applicable, and cyberwar and drone strikes become fundamental,
+then the cloud becomes the primary theater of war - not air, sea, or
+land.
+
+** COMMENT A Union of Sovereign Collectives
+# territory: secession, collectivism, synthesis vs thesis/antithesis (spin out)
+a union of sovereign collectives,
+
+
+   
+- expand on the previous concept
+   
+1729.com/network-union
+- network union concept
+- randian and marxian failure modes
+- one way to think of left/right
+   
+- sovereign individual
+- sovereign collective
+- bankless crypto civilization podcast  
+** COMMENT A Band That Defends Cloud Before Land
+- social networks and cyber networks
+** A Community Aligned Around Cryptographic Consensus
+# people: alignment: coins, truth
+# a community aligned around cryptographic consensus, 
+   
+Today's nation states are typically either internally disaligned,
+like the US, or forcibly internally aligned, like China. In the first
+case, the citizens are arguably free, but strongly disagree. In the
+second case, the citizens are in key respects less free, and thus do
+not openly disagree.
+
+#+CAPTION: The US is internally disaligned.
+#+NAME:
+[[./assets/pew-polarization.png]]
+
+The ideal is a third way, to build a community which is consensually
+internally aligned, where the citizens have made a free choice to
+agree, and have working mechanisms to come to consensus in the event
+they disagree[fn:7].
+
+That last bit is the hard part. In the US, polarization (or
+decentralization) has been increasing since the mid-century peak
+centralization, and was accelerated by social media. The establishment
+attempted a counter-decentralization to try to censor and deplatform
+people from social media, but this is unsystematic and, after an
+initial surge, halfhearted. It's an amateurish retrofit of speech and
+thought controls upon a previously free society, and it increasingly
+seems like it's not going to stick, particularly with the emergence of
+semi-decentralized platforms like Substack, fully decentralized tools
+like Bitcoin, and censorship-resistant web3 tools like Mirror, IPFS,
+and the like. America's model is no consensus and constant dissent.
+
+In China, unification (or centralization) has arguably been increasing
+since mid-century, when there was the nadir of the Chinese Civil War,
+when many of the most talented Chinese people sought their fortunes
+abroad, and when the most successful ethnically Chinese states were
+the islands outside mainland China: Hong Kong, Taiwan, and
+Singapore. Over the last several decades, like an ultra-aggressive
+sheepdog, the Chinese government has ensured that any burgeoning
+dissent is stifled, whether that be Tiananmen Square, the Great
+Firewall, Falun Gong, Bo Xilai, the Hong Kong National Security Law,
+the Xinjiang crackdown, US-supported democracy activists, Chinese tech
+founders, or Bitcoin miners. China's model is to attain consensus by
+suppressing dissent.
+
+What's the better model? A combination of old-fashioned ideas like
+trust and communication, plus newer ideas like the cryptographic
+consensus that the blockchain permits.
+
+After all, we should recognize that an Israeli and a Palestinian, a
+Chinese person and a Japanese person, a Democrat and a Republican, all
+agree on the state of the Bitcoin blockchain. Regardless of their
+political views, or geography, people agree on how much Bitcoin
+someone has globally. This is an incredible triumph, because a
+trillion dollars is the kind of thing people will fight over. For
+wealth on the scale of a trillion dollars, people will invade
+countries, forge histories, do crazy things. Indeed, a "mere"
+million dollars is the kind of thing people will fight over. Yet
+there’s essentially no dispute on who owns what BTC. 
+
+The same consensus algorithms that can get people to agree on what
+Bitcoin someone had at what time can be extended to get people to
+agree on what digital property somebody had at what time. That's
+stocks and bonds, but also things like art and video game items,
+and the digital keys to real world homes and vehicles.
+
+Finally, and less obviously, these consensus algorithms can be
+extended not simply to recording property, but to arbitrary kinds of
+timestamped information. What device recorded this temperature in
+Kansas on this date? What hospital uploaded this medical record to the
+blockchain at this time? What was the price of this house that was
+sold in this area? What crime was reported by this victim or this
+police officer in this area?
+
+All of these feeds of data did not really exist two decades ago. They
+mostly do exist today, but in corporate silos. The next step is to put
+them on-chain and integrate them into what we call the /ledger of
+record/, which is a global feed of cryptographically timestamped,
+undeletable history.
+
+If you think about how people use Twitter, they use it as a reference
+to prove that something happened, that someone said something at a given time.
+Twitter is in this sense a timestamped feed of events, one where we
+trust Twitter to tell us what happened. But this is imperfect for
+many reasons, not least of which that Twitter deplatforms many people,
+and has been hacked in ways that allow impersonation of users. 
+
+If a Twitter-style feed was on-chain, no one can man-in-the-middle
+attack or deplatform the users. They could steal the keys, but that
+would mean stealing property too. So it becomes harder to falsify
+history. The feed of what happened becomes harder to corrupt. And this
+is the transition from centralized truth, from the corporate "truth"
+of the American press and the official "truth" of the Chinese state to
+decentralized cryptographic truth, on-chain truth, truth you can
+verify for yourself.
+
+This kind of truth is already used by crypto oracles like Chainlink to
+manage feeds of information that are the input to smart contracts
+handling billions of dollars. While price feeds may seem like a highly
+specific area to begin, they are ideal from one vantage point: if
+you can corrupt even one byte, you can hack a lot of money. So
+if you can create a defensible, hack-proof history there,
+you can extend it to protect many other kinds of history.
+
+This is how we get to a community aligned around cryptographic consensus.
+** COMMENT A State That Recruits Like a Startup
+# people: rebundle: don't get citizens out of nowhere, boosting dashboard
+# a state that recruits like a startup,
+
+Understand that **rising nationalism/socialism** and the remote
+economy has created a global competition for talent.
+
+- skilled, limited immigration
+- like a top tech company
+- your immigration policy is your hiring policy
+- note that people who are ostensibly open borders people will often
+  grow very territorial when you ask why everyone shouldn't get a
+  harvard degree or work for nyt
+- that's the border they /care/ about
+- a players hire a players, b players hire c players
+- borders, hiring, privacy -- it's all about forming a semi-permeable
+  /membrane/ around something
+- singapore, canada, etc
+- immigration decline to use
+
+Mechanically, anyone can apply online to try out a network state
+digitally. You can demonstrate value online, then either pay to
+migrate there physically or get financial aid to do so. We envision
+people applying to countries at the age of 18, much as they apply to
+colleges today at the age of 18, and for many of the same
+reasons. Over time we can apply technology to reducing the barrier to
+exit, and thereby reducing the need for financial aid. In this
+fashion, the network state is a state that recruits like a startup, or
+like a competitive college.
+** COMMENT A Body Based On Math Rather Than Science
+- break glass, decentralization
+- 95 theses
+- math > science
+- ledger of record
+- Replace prestigious citation with independent replication, by
+embracing on-chain data/code, truly reproducible research, and
+citizen-verifiable news.
+
+#+CAPTION: Believe Science
+#+NAME:
+
+#+CAPTION: vitalik-donation-onchain
+#+NAME:
+[[./assets/vitalik-donation-onchain.png]]
+
+#+CAPTION: reproducible-research
+#+NAME:
+[[./assets/reproducible-research.jpeg]]
+
+#+CAPTION: 
+#+NAME:
+[[./assets/reproducible-research-2.jpeg]]
+
+#+CAPTION: 
+#+NAME:
+[[./assets/ap-chainlink.png]]
+** COMMENT A List of Citizen Journalists
+[ ledger of record content here]
+   
+** COMMENT A Culture of Crypto Creators
+- art that pays for itself
+- culture is worth defending
+- culture decommoditizes the network state    
+- customer acquisition strategy for the network state   
+- extends the previous point
+- crypto creators > internet influencers  
+  + didn't even own the teeth in your head (anecdote from Kan podcast)
+  + shanghai before/after
+  + show the math of the game theory and the split
+  + compare that to the crypto unlock
+  + will be 10X bigger than social media
+  + introduction of /genuine/ digital property rights
+  + media is now investable (cite that thread)
+  + Only invest in crypto creators, who own the direct line
+    + have an ENS or ethereum address for all followers
+    + a token of some kind
+    + a DAO
+    + NFT issuance
+** COMMENT A Civilization that values Digital Civility
+- 2019 thread
+- why are people so rude online but not at starbucks
+- answer: they don't actually know each other
+- different environments
+  + persistent and friendly (office, family)
+  + persistent and mostly friendly (small town you've chosen, club)
+  + persistent and unfriendly (twitter, prison, high school)
+** COMMENT An Organization of Optimalists
+- opposite of douthat's decadence
+- restore the arrow of progress     
+- all must become excellent essay
+- not fundamentalism
+- optimalism
+- proposition nation expresses as set of metrics
+  and an objective function
+- city on the hill, drive to it with OKRs :)
+** COMMENT An Asymptotically Automated Administration
+
+** COMMENT A ROC-based realtime regulator
+- regulation as binary classifier
+- problems with the regulatory state
+  + realtime regulation - vs delayed regulation
+  + realtime regulation = uber star ratings, vs taxi-cab medallion
+  + combine machine learning + data collection to improve
+- we see this already there in uber, airbnb, etc
+- realign with citizen incentives
+- calculated risk, risk-tolerant, not so risk averse that we fail
+** A Citizenry Centered On Single Sign-On
+# netizen of the network state
+# citizen of a nation state
+# Citizenship *is* single sign-on
+# That's what it means to be a US citizen abroad
+# You carry a passport and various documents
+# These indicate you are a citizen. That's the local version
+# And there are entries in government databases that confirm this. That's the server side version
+# Those are of course 20th century implementations of a very 21st century concept
+# Citizenship is about holding the requisit private keys, and having corresponding entries in a database (eventually, a blockchain)
+# why a blockchain? because it can protect valuable information. such as bitcoin, of course, but also anything people would want to forge
+   
+In many ways, we can think of modern citizenship as being /defined/ by
+access to a single sign-on service like Singpass, as opposed to
+physical proximity to another person per se.
+
+#+CAPTION: The Singpass gives every Singaporean citizen a login to all services.
+#+NAME:
+[[./assets/singpass.png]]
+
+As we've mentioned, the backbone of the network state is likely a
+blockchain, whether that be permissionless, permissioned, or some
+variant thereof. Why? Because it can be used to replace the following
+services of a legacy nation state.
+
+ - /Identity card/: Your private keys give your user account and login
+   to the digital services of the network state. It all starts here,
+   with the new single sign-on for citizens. Like ENS's satoshi.eth,
+   you'd have an official name like yourname.countrychain.
+
+ - /The Social Contract/: The metaphorical social contract becomes a
+   literal social smart contract that you sign every time you want to
+   re-up your subscription to the network state. There are explicit
+   contract terms, multiple choice questions to ensure that you
+   understand those contract terms, reviews of the contract terms by
+   other competing network states, and so on.
+ 
+ - /Passport/: Your private keys, the network state's foreign
+   relations, and the technological state of chain interoperability
+   determine what other network states you can access.
+
+ - /Voting/: Every vote, shareholder vote, poll, or survey is done via
+   digital signature using your private keys. Sophisticated kinds of
+   privacy-preserving votes can be done with this infrastructure.
+
+ - /Governance/: Should you be elected or appointed to office, your
+   private keys determine your permission level, in terms of what
+   budget you have as governor of a subgraph of the network state, or
+   what actions you can take towards untoward citizens, such as
+   deplatforming for 10 days after a first warning.
+
+ - /Crime and Punishment/: On this topic, different network states
+   will make different decisions here, but unlike the lawless
+   deplatforming of today's social media platforms, digital
+   punishments /could/ be more humane and acceptable than physical
+   punishments so long as there are /clear and pre-agreed rules/ that
+   all members of the network state abide by at the time of joining.
+
+ - /Driver's License, Pilot's License/: Your private keys determine
+   which smart vehicles you can operate, either in person (eg a Tesla)
+   or remotely (eg a drone).
+
+ - /Security Clearance/: Your private keys determine whether you have
+   Top Secret clearance, and in general whether you have permission to
+   view any given document, enter a facility, or interact with any
+   digital object.
+
+ - /Postal Service/: Your private keys give encrypted p2p and group
+   messaging. Note that the Postal Service was in the US Constitution!
+
+ - /Fund Recovery and Lawful Intercept/: This is a controversial area,
+   and different network states will make different decisions
+   here. But if the network state founder has admin keys, it may be able
+   to do /lawful intercept/ of some messages or reversal of fund
+   transfers after a pre-agreed social process, which proceeds
+   on-chain and thus more transparently than the status quo of star
+   chambers and civil forfeitures.
+
+   Why even mention this? Because it's an open question as to how to
+   deal with crime in a network state. The fact that the United States
+   and other governments have abused their police powers and are
+   likely beyond reform does not mean that the complete absence of
+   lawful authority is the right answer; that path leads to
+   crypto-anarchy and criminal gangs. The right answer is a new
+   network state where you can choose to trust it and revoke that
+   trust and exit to a new network state should it abuse it.
+
+   Here's another way to think about it: as a user of a crypto
+   exchange, you want complete privacy. But as the CEO of a crypto
+   exchange, you want complete analytics on every user. Why? Because
+   some users /are/ genuinely seeking to harm or defraud other users,
+   and you may need tools like Sift Science to determine who they are,
+   and to ban them from the platform.
+
+ - /Defensive Border Walls/: So long as your chain is sufficiently
+   sovereign resistant, no other entity besides the network state
+   itself can penetrate the cryptography protecting your citizens'
+   messages and possessions.   
+ 
+ - /Name Change/: Seemingly trivial, but less so in the pseudonymous
+   economy. Your private keys let you do this as well.
+
+ - /Signatures and Notarization/: Your private keys allow digital
+   signatures and, via multisig, notarization of others' signatures.
+
+ - /Community Trust/: A web-of-trust network of on-chain endorsements
+   serves as a computable measure of community trust, like a higher
+   stakes form of friending or following.
+
+ - /Corporate Law/: Most corporate law can go on-chain. See this post
+   mirrortables for details: balajis.com/mirrortables.
+
+ - /Dispute Resolution/: Smart contracts give more predictable dispute
+   resolution.
+
+ - /Land Registry/: Cadestration and land registries can be put on
+   chain. Even more interestingly, any land use permits can be put on
+   chain, as can community ownership of land through a REIT, in a sort
+   of neo-Georgist configuration. 
+   
+ - /Crowdfunding for public goods/: All of this can be organized on
+   chain, potentially with traditional crowdfunding and possibly with
+   commemorative NFTs where the largest bidders get their names on a
+   digital plaque.
+
+ - /Currency/: The internal currency or currencies of the network
+   state are of course on-chain, as are any bonds or other securities
+   it issues to finance its operations.
+   
+ - /Taxes/: these turn into (a) subscription fees paid on chain and
+   (b) Bitcoin-checked inflation of the network state's native
+   currency. The subscription concept is intuitive; it's the annual
+   payment for being a member of the network state. The inflation
+   component is less obvious. Isn't the whole point to get away from
+   inflation? The idea here is that this "inflation" is highly
+   visible, and more like a fundraising round where new shares are
+   issued and closely scrutinized than the current hijinks the Federal
+   Reserve prints trillions of dollars and then hides the
+   scoreboard. In the event any network state tries to inflate its
+   currency too much, the citizens cash out to Bitcoin, which thus
+   acts as a kind of pro-freedom global government.
+
+ - /Birth, Marriage, and Death Certificates/: All of these go on chain
+   too. Everything that the city is asserting is true as an oracle.
+
+ - /Property Rights/: user balances for all assets where the network
+   state mediates disputes go on the network state's
+   blockchain. Notably, BTC is /not/ included in that list, as Bitcoin
+   stands above the network state on its own blockchain as a check on
+   every state.
+
+This gives you a sense of where city coins can go. They eventually
+become city-state coins, and network state coins.
+** COMMENT A Polity That Prizes Choice Alongside Voice
+- silicon valley's ultimate exit
+- software is reorganizing the world
+- exit, voice, loyalty
+- how do these interact
+- table of options
+- note that exit amplifies voice
+- loyalty reduces exit
+- reduce barrier to exit, exit as voice
+
+Note that exit is the vote that cannot be diluted, and that exit gives
+others their voice. Build tools to reduce the barriers to exit.
+
+#+CAPTION: 
+#+NAME:
+[[./assets/exit-voice-2013.png]]
+** COMMENT A 100% Democracy instead of a mere 51% Democracy
+- social smart contract
+- optimize for consent
+- democratic choice, and democratic voice   
+** A Society Funded by Subscription and Seignorage
+Just to preface this section: to be clear, the network state starts as
+a non-sovereign entity, an imaginary construct, a LARP. Each netizen
+of the network state, and each network node, is expected to comply
+with the laws of its surrounding host state for the indefinite future.
+
+But suspend disbelief and assume we can wave a magic wand. Assume we
+can eventually gain a degree of /legal/ sovereignty for the network
+state by collective bargaining with a host state, perhaps by paying
+them a fee or otherwise working with them.
+
+For example, a set of network nodes in the vicinity of Tuvalu might do
+a deal with Tuvalu similar to the purchase of the .tv domain. They
+might pay the Tuvalese (say) $X million annualy for the privilege of
+being considered a Tuvalu special economic zone and setting their own
+revenue policy.
+
+What could that revenue policy look like?
+
+As context, current nation states are based on (a) coercive revenue
+collection, (b) financial surveillance, (c) bond-fueled debt, and (d)
+hidden inflation. The network state is set up to be financially
+solvent and ethically strong from the beginning by avoiding each of
+these pitfalls.
+*** Subscription > Coercion
+The primary source of revenue for a network state is 
+subscriptions[fn:10]. Each netizen pays for the citizenship-as-a-service
+single sign on.
+
+If they do not renew their subscription, their single sign-on is
+turned off, and they end up being unable to enter buildings or log
+in. This is enough incentive for them to remain compliant with the
+terms of the social smart contract they signed upon entering. The
+blockchain handles the various details of nonviolent contract
+enforcement.
+
+Importantly, as the cost of coercion rises, these types of
+subscriptions will end up being more profitable than traditional means
+of coercive revenue collection.
+
+Why? Because if an illegitimate state like Venezuela tries to
+implement something like civil forfeiture on a national scale, if they
+tried to do Lenin's Hanging Order in the age of Bitcoin, they will
+need to ensure that each act of seizure must pay for itself. That is,
+they need to deanonymize each 'kulak', geolocate them, ensure they
+have jurisdiction, send in the SWAT team, successfully execute the
+wrench attack, collect the Bitcoin, and then repeat this over and
+over again in many places while managing the PR fallout.
+
+The key concept is that each such act by a Venezuela-style gangster
+state must generate more Bitcoin than it costs. It is not obvious that
+this will be the case as physical attacks are far less reproducible
+than the practice of simply hitting a key and printing money. And they
+are also less profitable than the new proposed practice of simply
+rendering a valuable enough citizenship service that people will
+consensually renew their subscription.
+*** Privacy > Surveillance
+There's a second reason why subscriptions will be preferred over the
+current mechanism of invasive data collection and financial
+surveillance: namely, privacy.
+
+You don't need to fill out endless numbers of forms to pay
+Dropbox. You certainly don't need to spend hours giving them a
+snapshot of your entire corporate and/or personal financial picture in
+order to pay them a percentage of your income, thereby risking your
+privacy further should Dropbox get hacked. You just pay Dropbox a flat
+monthly fee for services rendered, and cancel it if you don't like it.
+
+Compare this to the state of affairs for states. Major government
+agencies are routinely hacked to an unbelievable degree.  The OPM
+Hack, the Texas state hack, and the Solarwinds hack are just a few
+that have been publicly reported. If it has not already happened, it
+will likely soon occur that your personal financial information is
+sprayed over the internet by a hack of an incompetent government
+agency. The cloud may burst, with all this information raining down
+upon the internet. Add to this the surveillance state that one cannot
+opt out of, and the potential for abuse becomes clear.
+
+So the network state starts with an alternative principle: minimal
+necessary data collection. Governments should not collect what they
+cannot secure. The subscription state protects financial privacy
+relative to the existing system.
+*** Sovereign Equity > Sovereign Debt
+While subscriptions are expected to be the main source of funds,
+another mechanism network states can use to raise capital is
+/seignorage/. Specifically, much like a company issues new stock, the
+network state issues new units of its digital asset on its main
+blockchain.
+
+Unlike the current process of secretive and random inflation, this is
+more akin to the highly ritualized ceremony around stock issuance that
+occurs when a company raises a new funding round. In such a ritual,
+the exact number of new shares is specified to the unit, the exact
+purchasers are known, the terms of those shares are detailed, the new
+liquidation waterfall is updated, and so on. If these terms are not
+agreeable to the purchasers of equity, then they walk, and the round
+is not completed.
+
+Compare this to the current practice of lawlessly printing trillions,
+watching M2 ramp, then complaining that it doesn't measure anything,
+thereby acknowledging that there are zero dashboards to monitor the
+flow of trillions into the economy. Or the practice of encouraging
+many entities to buy "debt" in the form of negative interest rate
+yielding US bonds, even as it becomes obvious that the long term
+strategy is to monetize the debt by printing so much money that the
+bonds become worthless.
+*** Bitcoin > Inflation
+The third governor of the network state's financial solvency is
+Bitcoin. This works in several ways.
+
+First, because the Bitcoin blockchain is so difficult to interfere
+with, we can think of it as a form of property that even the world's
+most powerful legacy states can't stop. In this sense, Bitcoin is a
+global government that checks all other states, network and nation
+state alike.
+
+So, any investor who doesn't like a network state's seignorage
+practices can cash out to BTC, which cannot be issued by any network
+state. Any citizen can do the same. This is similar to how an investor
+who doesn't like a company's practices can cash out to USD.
+
+Moreover, each network state itself holds Bitcoin as a strategic
+reserve, which cannot be seized by any other state. Having funds
+on-chain also allows a network state to demonstrate proof-of-reserve.
+
+Of course, a network state will hold more than Bitcoin, just as
+traditional states held more than just gold. Each network state
+decides what digital assets are held in its portfolio, and which are
+approved for its medium of exchange, unit of account, and store of
+value.
+** COMMENT A Nation Built From The Internet Rather Than Disrupted By It
+
+** Summary and FAQ
+As you can see, we've put some thought into how to make the network
+state feasible. The concept has been defined to address many of the
+immediate questions - and emotional interjections - that arise when
+you discuss the concept of starting a new country.
+
+  1. /What is a network state, anyway?/. We defined the network state
+     as a social network with a recognized founder, an integrated
+     cryptocurrency, a definite purpose, a sense of national
+     consciousness, and a plan to crowdfund territory. It's a country
+     you can start from your computer. There is a path for founders,
+     and a path for citizens, as anyone can declare themselves founder
+     or citizen of a network state at any time, and also switch
+     between these roles.
+
+  2. /How should we think about nation states?/ The root word of
+     nation is related to the word natality, which refers to
+     birth. That is, a nation is considered to be an ethnic group with
+     common culture, inheritance, language, traditions, etc. The state
+     by contrast is the government. So in the classic nation state, an
+     ethnic group like the Japanese (the nation) names leaders (the
+     state) to manage disputes, collective defense, and the like. The
+     Jewish community by contrast was for a long time a nation without
+     a territory or a formal state, until the establishment of
+     Israel. And today we have multiethnic nation states like
+     Singapore, Luxembourg, and the USA, which generalize the concept
+     beyond the historical ethnostate, and where the state becomes
+     more primary. In the latter case the defining principle is really
+     a /proposition/, rather than a /nation/, but this is a retrofit
+     on what was previously an ethnostate. A major issue today is that
+     the internet is accelerating the decay of the Western nation
+     state by making long-distance bonds over networks more salient
+     than geographical ties between neighbors.
+
+  3. /Why is a network now a better basis for a state than a nation?/
+     If we're going to build a proposition nation, we should be honest
+     about it and recruit on the basis of that proposition from the
+     beginning. Many Western countries today demonstrate the level of
+     dissatisfaction that occurs on both sides when what was arguably
+     implicitly an ethnostate is converted to a proposition nation
+     with less than 100% assent. By instead /starting/ with a group of
+     people defined by geodesic rather over geographic distance, we
+     have a base population which is close together in an ideological
+     sense and thereby much more likely to agree on what the state
+     should do. By also articulating the proposition explicitly, we
+     have a defined purpose, an objective that we are literally
+     quantitatively optimizing as a society of optimalists. All
+     recruiting is then for that purpose.
+     
+  4. /Why don't you just reform existing institutions?/ We want to be
+     able to start new countries for the same reason people want a
+     clean sheet of paper, an empty text buffer, a bare piece of land,
+     or a fresh cap table. It's a clean start without legacy
+     baggage. Think of the network state as a way to build
+     replacements to reform-resistant legacy institutions that can't
+     be easily disrupted by tech companies, open source projects, or
+     crypto protocols. If those replacements actually succeed, then
+     our exit actually enhances voice. That is, if we are successful
+     in what we're doing, that gives ammo for people to reform
+     existing institutions, much as many practices were pioneered in
+     America and imported back to the old world.
+
+  5. /Why do you consider this an ethical imperative?/ Suppose you're
+     interested in improving longevity and thereby life expectancy.
+     It takes 12 years and billions of dollars to get a drug through
+     the FDA. And it might literally be faster and cheaper to start a
+     new country than to reform such a sclerotic bureaucracy. This is
+     the concept behind building a ROC-based realtime regulator, a
+     regulator that quantifies approval decisions like a binary
+     classifier and tries to minimize type I and II errors.
+     
+  6. /How will you get land, if it's all spoken for?/. The short
+     version is that we crowdfund discontiguous territory around the
+     world and network it together into an archipelago of
+     interconnected enclaves. A network state can thus can be
+     visualized in a dashboard, and you can watch it grow over time.
+
+  7. /Why is this not cosplaying like all the other failed
+     micronations?/. The key difference is that we start by building
+     functional communities online. We aren't just starting with a
+     patch of territory, we're starting with the network as the
+     equivalent of the nation, and then building a state in the cloud
+     before it materializes on the land. As for the LARPing part, (a)
+     we just LARPed cryptocurrency to a trillion and (b) all countries
+     start as imagined countries. For example, Herzl wrote Der
+     Judenstaadt in the 1890s, five decades before the formation of
+     Israel.
+    
+  8. /You do know we'll invade you if you do it, and we'll also
+     denounce you if you have any plan for defense?/. As noted above,
+     the network state has nonviolent defense in depth. It's a
+     city-state with its capital in the cloud, and its territory is
+     globally decentralized so it can't easily be invaded. It might
+     even be a secret state, with an encrypted membership list and set
+     of network nodes, so it can't even be easily found. It can
+     however be bought and sold, with the consent of a sufficient
+     number of coinholders, so it is a territory one can acquire but
+     not conquer.
+
+  9. /What about humanities and culture, techbro?!?/ Glad you asked so
+     politely. Of course, when we think of France, we don't think of
+     the French Stock Exchange. We think of the Louvre and the Eiffel
+     Tower, we think of the Mona Lisa and baguettes, we think of their
+     art, culture, and food. So too will every network state need its
+     own artists, writers, bards, and chefs. In the modern era we'll
+     think of these as /crypto creators/, who own their art and
+     audience via private keys unlike mere internet influencers. These
+     crypto creators help attract new citizens to each network state
+     and define its culture and value proposition. Phrased humorously,
+     you can fund the Eiffel Tower with afffiliate revenue from
+     citizen referrals. This gives a sustainable business model for
+     the arts.
+
+  10. /How do you think about legitimacy and consent?/ The network
+      state is a 100% democracy rather than a mere 51% democracy.
+      That means that every netizen signs a social smart contract upon
+      entering the digital (and eventually physical) environment, kind
+      of like Envoy. They then periodically re-evaluate the terms at
+      the time of subscription renewal, or reject them in order to
+      leave for a new network state.
+
+  11. /What about loyalty if everyone is switching all the time?/.
+     There are many mechanism to rebuild loyalty on the basis of
+      conscious, affirmative consent. For example, at the time of
+      signing the social smart contract, incentives may be offered for
+      longer-term contracts and coinholding periods.  Attractive
+      cultures may also serve as network effects that keep people from
+      leaving a network state at the drop of a hat.  There is always a
+      balance; the point is to amplify the possibility of choice, not
+      to build a mercenary society. But there will be several
+      possible solutions here, so different network states
+      will do this differently.
+
+  12. /How does the network state resolve significant disputes?/ First
+      off, part of the goal is to build a civilization that values
+      digital civility. So many disputes are really about disrespect
+      rather than substantive differences. But with respect to
+      substantive issues, one way of thinking about the network state
+      is as a union of sovereign collectives. Each sufficiently large
+      network node has a CEO that folds into the CEO of the overall
+      network state, which owns a stake in that node. If that CEO so
+      chooses, they can spin out their network node into their own
+      network state, or detach and join another network state. The
+      signage of network state 1 goes down, and network state 2 goes
+      up. This is a new mechanism for dynamic geography.
+
+  13. /How does a network state come to consensus?/. The network state
+      is based on the ledger of record, which is a feed of
+      cryptographically signed events. The metadata on these events
+      can be validated (such as proof-of-who, proof-of-when, and
+      proof-of-what via hash) and in this sense what is true is now
+      based on math even more than "science". This ledger of record
+      turns every information source into an oracle or an
+      advocate. The former is a dispassionate stream of data, the
+      latter is interpretation on top of it.  Just as every citizen
+      posts on social media today, every citizen will be considered a
+      citizen journalist tomorrow.  Some will raw report information
+      via oracles that gets recorded in that network state's ledger of
+      record, while most others will provide commentary. Everything
+      will be signed with their digital signature, and there will be a
+      web of trust and many interlocking levels of automated rating
+      and peer review. A key concept is prioritizing truly independent
+      replication over "peer review" or mere retweeting. The goal is a
+      community aligned around cryptographic consensus.
+
+That wraps up our high level overview of the network state, and the
+initial FAQ. As a next step, you can make proposed edits to this PDF,
+fix typos, and add comments at [[https://github.com/1729/content/issues][github.com/1729/content/issues]]. We'd
+appreciate it if you did this!
+ 
+* Footnotes 
+[fn:1] Another difference is that the people of the network state
+wouldn't have a single employer like Google. There would be as many
+different sources of income as there were network state citizens.
+
+[fn:2] Think of interoperability between network state citizenship
+status as being a complex, fruitful ground for innovation -f much like
+interoperability between blockchains, and based on many of the same
+concepts given that citizenship is partially predicated on coin
+possession.
+
+[fn:4] Yes, you may not use Facebook.com today. But you probably used
+it in the past, or use it solely as a login mechanism, or use
+Instagram, WhatsApp, Oculus, or one of Meta's other properties. The
+point should be clear; feel free to substitute Google here as well
+should you choose.
+
+[fn:5] This observation inverts the concept of the "temporarily
+embarassed millionaire"; it is, in fact, much easier to become a
+millionaire, or even a billionaire, than it is to become a
+president. The opposite phenomenon of someone who believes that change
+is best sought through the legacy political system is best
+characterized as a temporarily embarassed politician.
+
+[fn:6] This is different from, but complementary to, the fluidity of
+transitioning from citzen to founder, and back.
+
+[fn:7] Or to exit if they truly cannot come to agreement. While this
+is much more salient in the network state environment, it's still a
+last resort.
+
+[fn:8] To our best knowledge, of course. But as the saying goes, two
+men can keep a secret if one man is dead. Given the idiosyncracy of
+the project and the consistency of the voice, I find it unlikely that
+Satoshi was venture-backed or a team.
+
+[fn:9] Some national borders are more like natural borders, in the
+sense that they track geographical, religious, or linguistic
+differences. For example, the nation state of the UK and that of
+France are divided by the English Channel, a geographical
+delimiter. The UK also includes Northern Ireland, which roughly maps
+to the religious boundary of Protestant vs Catholic. The internal
+divisions of the UK into England, Wales, and Scotland map to
+historical linguistic boundaries. Finally, the UK itself is
+responsible for much more artificial boundaries that map to neither
+geography, nor religion, nor language, such as the vertical and
+horizontal colonial lines that divide up Africa. This is a classic
+example of "Seeing Like a State", because those lines are clean on a
+map but cut right through historical ethnic and linguistic groups,
+resulting in weak states that don't reflect one historical people at
+the time of state formation. Of course, over time, these social
+constructs can start influencing language and genetics; for example,
+it's usually easier to marry someone within your nation state than
+outside it. Still, this is a good example of an artificial national boundary.
+
+[fn:10] See the Sovereign Individual, David Sacks' tweet, and Lakoff's
+concept of subscription fees as the price one pays for being a
+citizen - though the latter may balk at taking the concept seriously
+rather than merely rhetorically!
